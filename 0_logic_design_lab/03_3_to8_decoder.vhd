@@ -1,3 +1,5 @@
+-- Hazırlayan: Aleyna Özbek
+-- https://www.youtube.com/watch?v=KW5uX0c2s6I&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq&index=1
 Library IEEE;
 Use IEEE.STD_logic_1164.all;
 
