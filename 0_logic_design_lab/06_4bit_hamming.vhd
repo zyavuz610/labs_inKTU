@@ -26,3 +26,6 @@ hamout(4 TO 6) <= (p0, p1, p2);
 hamout(0 TO 3) <= datain(0 TO 3);
 
 END beh;
+
+
+
