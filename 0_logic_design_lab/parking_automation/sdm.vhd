@@ -3,6 +3,7 @@
 --- 348402 Sayısal Tasarım Lab (2. Oturum)| 
 ---Otopark Giriş Sistemi                  |
 -------------------------------------------
+-- https://youtu.be/RdBX7pWCbrw
 
 Library IEEE;   --Kutuphane 
 use IEEE.std_logic_1164.all;  --Paket
