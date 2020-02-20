@@ -1,6 +1,8 @@
 # Wireless Sensor Networks (WSN)
 Bilgisayar Ağları Laboratuvarında bir deney olarak tasarlanan bu deney Kablosuz Sensör Ağlarının simulasyonunu yapmayı kapsamaktadır.
 
+[2_computer_networks_lab/Example-of-a-wireless-sensor-network-based-on-the-Berkeley-mote-platform-The-circles.png]
+
 Amaç, sıcaklık, ses, basınç, nem gibi fiziksel ve çevresel değişiklikleri algılamak ve algılanan veriyi kurulan kablosuz ağ üzerinden işbirliği içerisinde ana bir merkeze iletmektir. 
 
 Kablosuz sensör ağlarda her bir **sensör düğümü (mote)** olarak isimlendirilir.
