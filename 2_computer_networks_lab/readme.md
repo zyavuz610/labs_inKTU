@@ -36,3 +36,8 @@ ant run
 * [Contiki OS](https://github.com/contiki-os/contiki)
 * [Contiki-NG OS](https://github.com/contiki-ng/contiki-ng)
 * [Contiki Tutorial](https://anrg.usc.edu/contiki/index.php/Contiki_tutorials)
+* Some WSN Tutorials
+  * [WSN Tutorials-pdf](http://pages.di.unipi.it/bonuccelli/sensori.pdf)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Wireless_sensor_network)
+  * [WSN Architecture](https://www.elprocus.com/architecture-of-wireless-sensor-network-and-applications/)
+  * [WSN Overview-pdf](https://cdn.intechopen.com/pdfs/38793/InTechOverview_of_wireless_sensor_network.pdf)
