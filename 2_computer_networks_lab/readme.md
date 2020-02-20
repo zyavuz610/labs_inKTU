@@ -21,7 +21,8 @@ Deneyde **contiki** işletim sistemi ve bu sisteme kurulu **coaja** simulatörü
 1. Bir linux dağıtımına kurulu "[Instant Contiki](https://sourceforge.net/projects/contiki/files/Instant%20Contiki/)" paketini elde edinin ve [VMware Workstation Player](https://my.vmware.com/web/vmware/downloads) sanal makinesine bu paketi kurun. (Üzerinde contiki paketleri kurulu ubuntu işletim sistemi kurulu olacaktır.)
 1. aşağıdaki kodu çalıştırın ve coaja simulatörünü açın, sonraki bölümdeki uygulamaları gerçekleştirin.
 <code>
- cd contiki/tools/cooja <br>
+ cd contiki/tools/cooja 
+ 
 ant run
  </code>
 
