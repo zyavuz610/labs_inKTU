@@ -16,6 +16,19 @@ Kablosuz sensör ağlarda sensör düğümlerinin çalışması 3 aşamada düş
   
 Deneyde **contiki** işletim sistemi ve bu sisteme kurulu **coaja** simulatörü kullanılacaktır.
 
+## 6. DENEYDE GERÇEKLEŞTİRİLECEK UYGULAMALAR
+6.1. COOJA simülatörü kullanarak contiki/examples/ipv6/simple-upd-rpl/broadcastexample.c örneği gerçekleştirilecektir.
+6.2. COOJA simülatörü kullanılarak bir server/client uygulaması yapılacaktır. Bu uyguama
+için examples/ipv6/rpl-udp/udp-server.c ve examples/ipv6/rpl-udp/udp-client.c kaynak
+dosyaları kullanılacaktır.
+6.3. COOJA simülatörü kullanarak Sky Mote sensör düğümlerinde bulunan sensörler ile
+sıcaklık, nem ve ışık değerleri okunacak ve server düğüme gönderilecektir. Bu
+uygulamada 6.2 de yapılan uygulamadan farklı olarak server cihazına “hello” mesajı
+yerine sernsörlerden okunan değerler gönderilecektir.
+6.4. İkinci adımda gerçekleştirilen simülatör uygulaması Sky Mote donanımlarıyla
+gerçeklenecektir. Sensörlerden okunan değerler “minicom” isimli metin tabanlı modem
+kontrol programıyla görüntülenecektir.
+
 ## Önemli Bağlantılar
 * [Contiki OS](https://github.com/contiki-os/contiki)
 * [Contiki-NG OS](https://github.com/contiki-ng/contiki-ng)
