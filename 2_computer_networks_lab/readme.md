@@ -16,6 +16,15 @@ Kablosuz sensör ağlarda sensör düğümlerinin çalışması 3 aşamada düş
   
 Deneyde **contiki** işletim sistemi ve bu sisteme kurulu **coaja** simulatörü kullanılacaktır.
 
+## Kurulum
+1. Bilgisayarınızın donanım düzeyinde sanallaştırma "Hardware Virtualization" seçeneği aktif olmalı
+1. Bir linux dağıtımına kurulu "[Instant Contiki](https://sourceforge.net/projects/contiki/files/Instant%20Contiki/)" paketini elde edinin ve [VMware Workstation Player](https://my.vmware.com/web/vmware/downloads) sanal makinesine bu paketi kurun. (Üzerinde contiki paketleri kurulu ubuntu işletim sistemi kurulu olacaktır.)
+1. aşağıdaki kodu çalıştırın ve coaja simulatörünü açın, sonraki bölümdeki uygulamaları gerçekleştirin.
+<code>
+ cd contiki/tools/cooja
+ant run
+ </code>
+
 ## DENEYDE GERÇEKLEŞTİRİLECEK UYGULAMALAR
 1. COOJA simülatörü kullanarak contiki/examples/ipv6/simple-upd-rpl/broadcastexample.c örneği gerçekleştirilecektir.
 1. COOJA simülatörü kullanılarak bir server/client uygulaması yapılacaktır. Bu uyguama için examples/ipv6/rpl-udp/udp-server.c ve examples/ipv6/rpl-udp/udp-client.c kaynak dosyaları kullanılacaktır.
