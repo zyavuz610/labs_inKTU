@@ -13,3 +13,10 @@ Kablosuz sensör ağlarda sensör düğümlerinin çalışması 3 aşamada düş
 * **Haberleşme**: Sensör düğümü (mote) ile diğer sensör düğümlerinin işbirliği içerisinde çalışarak verileri ana bir merkeze ulaştırır.
   * Fiziksel, veri iletim, ağ, taşıma ve uygulama katmanları (5 adet) yardımıyla haberleşilir.
   * Kullanılan standartlar, IEEE 802.15.4 ve onun üzerinde çalışan ZigBee protokolüdür.
+  
+Deneyde **contiki** işletim sistemi ve bu sisteme kurulu **coaja** simulatörü kullanılacaktır.
+
+## Önemli Bağlantılar
+* [Contiki OS](https://github.com/contiki-os/contiki)
+* [Contiki-NG OS](https://github.com/contiki-ng/contiki-ng)
+* [Contiki Tutorial](https://anrg.usc.edu/contiki/index.php/Contiki_tutorials)
