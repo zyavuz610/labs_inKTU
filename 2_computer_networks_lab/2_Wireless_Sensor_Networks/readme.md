@@ -17,7 +17,7 @@ Kablosuz sensör ağlarda sensör düğümlerinin çalışması 3 aşamada düş
 Deneyde **contiki** işletim sistemi ve bu sisteme kurulu **coaja** simulatörü kullanılacaktır.
 
 ## Kurulum
-1. Bilgisayarınızın donanım düzeyinde sanallaştırma "Hardware Virtualization" seçeneği aktif olmalı
+1. Bilgisayarınızın donanım düzeyinde sanallaştırma "[Hardware Virtualization](https://h30434.www3.hp.com/t5/image/serverpage/image-id/23649i03555FB16979A05D/image-size/original?v=v2&px=-1)" seçeneği aktif olmalı
 1. Bir linux dağıtımına kurulu "[Instant Contiki](https://sourceforge.net/projects/contiki/files/Instant%20Contiki/)" paketini elde edinin ve [VMware Workstation Player](https://my.vmware.com/web/vmware/downloads) sanal makinesine bu paketi kurun. (Üzerinde contiki paketleri kurulu ubuntu işletim sistemi kurulu olacaktır.)
 1. aşağıdaki kodu çalıştırın ve coaja simulatörünü açın, sonraki bölümdeki uygulamaları gerçekleştirin.
 <code>
