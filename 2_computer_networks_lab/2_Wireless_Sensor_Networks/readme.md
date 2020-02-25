@@ -25,7 +25,7 @@ Deneyde **contiki** işletim sistemi ve bu sisteme kurulu **coaja** simulatörü
 ## Kurulum
 1. Bilgisayarınızın donanım düzeyinde sanallaştırma "[Hardware Virtualization](https://h30434.www3.hp.com/t5/image/serverpage/image-id/23649i03555FB16979A05D/image-size/original?v=v2&px=-1)" seçeneği aktif olmalı
 1. Bir linux dağıtımına kurulu "[Instant Contiki](https://sourceforge.net/projects/contiki/files/Instant%20Contiki/)" paketini elde edinin ve [VMware Workstation Player](https://my.vmware.com/web/vmware/downloads) sanal makinesine bu paketi kurun. (Üzerinde contiki paketleri kurulu ubuntu işletim sistemi kurulu olacaktır.)
-1. aşağıdaki kodu çalıştırın ve coaja simulatörünü açın, sonraki bölümdeki uygulamaları gerçekleştirin.
+1. Aşağıdaki kodu çalıştırın ve coaja simulatörünü açın, sonraki bölümdeki uygulamaları gerçekleştirin.
 <code>
  cd contiki/tools/cooja 
  
@@ -33,12 +33,12 @@ ant run
  </code>
 
 ## DENEYDE GERÇEKLEŞTİRİLECEK UYGULAMALAR
-1. COOJA simülatörü kullanarak contiki/examples/ipv6/simple-upd-rpl/broadcastexample.c örneği gerçekleştirilecektir.
-1. COOJA simülatörü kullanılarak bir server/client uygulaması yapılacaktır. Bu uygulama için examples/ipv6/rpl-udp/udp-server.c ve examples/ipv6/rpl-udp/udp-client.c kaynak dosyaları kullanılacaktır.
-1. COOJA simülatörü kullanarak Sky Mote sensör düğümlerinde bulunan sensörler ile sıcaklık, nem ve ışık değerleri okunacak ve server düğüme gönderilecektir. Bu uygulamada 2 de yapılan uygulamadan farklı olarak server cihazına “hello” mesajı yerine sensörlerden okunan değerler gönderilecektir.
+1. **COOJA** simülatörü kullanarak contiki/examples/ipv6/simple-upd-rpl/broadcastexample.c örneği gerçekleştirilecektir.
+1. **COOJA** simülatörü kullanılarak bir server/client uygulaması yapılacaktır. Bu uygulama için examples/ipv6/rpl-udp/udp-server.c ve examples/ipv6/rpl-udp/udp-client.c kaynak dosyaları kullanılacaktır.
+1. **COOJA** simülatörü kullanarak Sky Mote sensör düğümlerinde bulunan sensörler ile sıcaklık, nem ve ışık değerleri okunacak ve server düğüme gönderilecektir. Bu uygulamada 2 de yapılan uygulamadan farklı olarak server cihazına “hello” mesajı yerine sensörlerden okunan değerler gönderilecektir.
    * Bu adım için Tmote Sky sensör fonksiyonları kullanabiliyor olmanız gerekir.
    * Alternatif olarak client düğümler kendi id numarasını sunucuya gönderebilirler (2 ya da daha çok sunucu olabilir), server düğüm[ler] bu numaraları alıp toplamını ekrana yazabilirler
-1. İkinci adımda gerçekleştirilen simülatör uygulaması Sky Mote donanımlarıyla gerçeklenecektir. Sensörlerden okunan değerler “minicom” isimli metin tabanlı modem kontrol programıyla görüntülenecektir.
+1. *İkinci adımda gerçekleştirilen simülatör uygulaması Sky Mote donanımlarıyla gerçeklenecektir. Sensörlerden okunan değerler “minicom” isimli metin tabanlı modem kontrol programıyla görüntülenecektir.*
 
 ## Önemli Bağlantılar
 * [Contiki Tutorial](https://anrg.usc.edu/contiki/index.php/Contiki_tutorials) - işletim sisteminin kurulumu ve örnek uygulamaları barındırır.
