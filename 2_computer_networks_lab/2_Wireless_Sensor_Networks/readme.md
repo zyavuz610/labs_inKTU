@@ -36,8 +36,8 @@ ant run
 1. COOJA simülatörü kullanarak contiki/examples/ipv6/simple-upd-rpl/broadcastexample.c örneği gerçekleştirilecektir.
 1. COOJA simülatörü kullanılarak bir server/client uygulaması yapılacaktır. Bu uygulama için examples/ipv6/rpl-udp/udp-server.c ve examples/ipv6/rpl-udp/udp-client.c kaynak dosyaları kullanılacaktır.
 1. COOJA simülatörü kullanarak Sky Mote sensör düğümlerinde bulunan sensörler ile sıcaklık, nem ve ışık değerleri okunacak ve server düğüme gönderilecektir. Bu uygulamada 2 de yapılan uygulamadan farklı olarak server cihazına “hello” mesajı yerine sensörlerden okunan değerler gönderilecektir.
-  * Bu adım için Tmote Sky sensör fonksiyonları kullanabiliyor olmanız gerekir.
-  * Alternatif olarak client düğümler kendi id numarasını sunucuya gönderebilirler (2 ya da daha çok sunucu olabilir), server düğüm[ler] bu numaraları alıp toplamını ekrana yazabilirler
+   * Bu adım için Tmote Sky sensör fonksiyonları kullanabiliyor olmanız gerekir.
+   * Alternatif olarak client düğümler kendi id numarasını sunucuya gönderebilirler (2 ya da daha çok sunucu olabilir), server düğüm[ler] bu numaraları alıp toplamını ekrana yazabilirler
 1. İkinci adımda gerçekleştirilen simülatör uygulaması Sky Mote donanımlarıyla gerçeklenecektir. Sensörlerden okunan değerler “minicom” isimli metin tabanlı modem kontrol programıyla görüntülenecektir.
 
 ## Önemli Bağlantılar
