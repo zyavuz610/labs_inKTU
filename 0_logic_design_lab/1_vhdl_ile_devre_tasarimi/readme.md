@@ -9,8 +9,8 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 ---
 
 ## Kaynaklar
-* [Deney Föyü](0_logic_design_lab/1_vhdl_ile_devre_tasarimi/00_documents/VHDL_ile_Devre_Tasarimi.pdf)
-* [Deney Raporu için Kullanılacak Şablon](/0_logic_design_lab/1_vhdl_ile_devre_tasarimi/00_documents/VHDL_deney_rapor_sablonu.pdf)
+* [Deney Föyü](/00_documents/VHDL_ile_Devre_Tasarimi.pdf)
+* [Deney Raporu için Kullanılacak Şablon](/00_documents/VHDL_deney_rapor_sablonu.pdf)
 * [Video 1](https://youtu.be/Z6Ql3Jw2hTU)'de proje tasarım aşamaları ve kombinasyonel devreler anlatılmaktadır.
 * [Video 2](https://youtu.be/cg_CRbJMDLM)'de ardışıl devre olarak çamaşır makinesi kodu yazılarak simulasyonu yapılmaktadır.
 * [Farklı devre örnekleri](https://www.youtube.com/watch?v=KW5uX0c2s6I&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq)
