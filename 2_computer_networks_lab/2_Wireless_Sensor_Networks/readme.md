@@ -1,6 +1,12 @@
 # Wireless Sensor Networks (WSN)
 Bilgisayar Ağları Laboratuvarında bir deney olarak tasarlanan bu deney Kablosuz Sensör Ağlarının simulasyonunu yapmayı kapsamaktadır.
 
+---
+
+[Deney Föyü](http://www.ktu.edu.tr/dosyalar/bilgisayar_ce12e.pdf)
+
+---
+
 ![WSN](/2_computer_networks_lab/2_Wireless_Sensor_Networks/Example-of-a-wireless-sensor-network-based-on-the-Berkeley-mote-platform-The-circles.png)
 
 **Amaç**, sıcaklık, ses, basınç, nem gibi fiziksel ve çevresel değişiklikleri algılamak ve algılanan veriyi kurulan kablosuz ağ üzerinden işbirliği içerisinde ana bir merkeze iletmektir. 
@@ -28,14 +34,16 @@ ant run
 
 ## DENEYDE GERÇEKLEŞTİRİLECEK UYGULAMALAR
 1. COOJA simülatörü kullanarak contiki/examples/ipv6/simple-upd-rpl/broadcastexample.c örneği gerçekleştirilecektir.
-1. COOJA simülatörü kullanılarak bir server/client uygulaması yapılacaktır. Bu uyguama için examples/ipv6/rpl-udp/udp-server.c ve examples/ipv6/rpl-udp/udp-client.c kaynak dosyaları kullanılacaktır.
-1. COOJA simülatörü kullanarak Sky Mote sensör düğümlerinde bulunan sensörler ile sıcaklık, nem ve ışık değerleri okunacak ve server düğüme gönderilecektir. Bu uygulamada 2 de yapılan uygulamadan farklı olarak server cihazına “hello” mesajı yerine sernsörlerden okunan değerler gönderilecektir.
+1. COOJA simülatörü kullanılarak bir server/client uygulaması yapılacaktır. Bu uygulama için examples/ipv6/rpl-udp/udp-server.c ve examples/ipv6/rpl-udp/udp-client.c kaynak dosyaları kullanılacaktır.
+1. COOJA simülatörü kullanarak Sky Mote sensör düğümlerinde bulunan sensörler ile sıcaklık, nem ve ışık değerleri okunacak ve server düğüme gönderilecektir. Bu uygulamada 2 de yapılan uygulamadan farklı olarak server cihazına “hello” mesajı yerine sensörlerden okunan değerler gönderilecektir.
+  * Bu adım için Tmote Sky sensör fonksiyonları kullanabiliyor olmanız gerekir.
+  * Alternatif olarak client düğümler kendi id numarasını sunucuya gönderebilirler (2 ya da daha çok sunucu olabilir), server düğüm[ler] bu numaraları alıp toplamını ekrana yazabilirler
 1. İkinci adımda gerçekleştirilen simülatör uygulaması Sky Mote donanımlarıyla gerçeklenecektir. Sensörlerden okunan değerler “minicom” isimli metin tabanlı modem kontrol programıyla görüntülenecektir.
 
 ## Önemli Bağlantılar
+* [Contiki Tutorial](https://anrg.usc.edu/contiki/index.php/Contiki_tutorials) - işletim sisteminin kurulumu ve örnek uygulamaları barındırır.
 * [Contiki OS](https://github.com/contiki-os/contiki)
 * [Contiki-NG OS](https://github.com/contiki-ng/contiki-ng)
-* [Contiki Tutorial](https://anrg.usc.edu/contiki/index.php/Contiki_tutorials)
 * Some WSN Tutorials
   * [WSN Tutorials-pdf](http://pages.di.unipi.it/bonuccelli/sensori.pdf)
   * [Wikipedia](https://en.wikipedia.org/wiki/Wireless_sensor_network)
