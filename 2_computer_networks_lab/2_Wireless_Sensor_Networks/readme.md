@@ -37,6 +37,10 @@ ant run
  </code>
 
 ## DENEYDE GERÇEKLEŞTİRİLECEK UYGULAMALAR
+1. **COOJA** simülatörü kullanarak "Hello World" örneğini çalıştırın. Bu uygulamanın amacı:
+   * cooja simulatörünü tanımak
+   * istenen sayıda düğüm ekleyerek (Sky Mote) bu düğümlere kaynak kodu derleyerek göndermek.
+   * simulasyon ektranında her bir kabluşuz sensör düğümlerinin davranışlarını basitçe gözlemek.
 1. **COOJA** simülatörü kullanarak contiki/examples/ipv6/simple-upd-rpl/broadcastexample.c örneği gerçekleştirilecektir.
 1. **COOJA** simülatörü kullanılarak bir server/client uygulaması yapılacaktır. Bu uygulama için examples/ipv6/rpl-udp/udp-server.c ve examples/ipv6/rpl-udp/udp-client.c kaynak dosyaları kullanılacaktır.
 1. **COOJA** simülatörü kullanarak Sky Mote sensör düğümlerinde bulunan sensörler ile sıcaklık, nem ve ışık değerleri okunacak ve server düğüme gönderilecektir. Bu uygulamada 2 de yapılan uygulamadan farklı olarak server cihazına “hello” mesajı yerine sensörlerden okunan değerler gönderilecektir.
