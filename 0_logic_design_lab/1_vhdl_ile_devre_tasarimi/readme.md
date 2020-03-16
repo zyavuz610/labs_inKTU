@@ -81,6 +81,10 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 ## VHDL ile Sayısal Devreler
 ### Kombinasyonel Devreler 
 * **Encoder  & Decoder**
-  * ([8-3](combinational_circuits/8-to-3_encoder.vhd) | [16-4](combinational_circuits/16-to-4_encoder.vhd)) ([3-8](combinational_circuits/3-to-8_decoder.vhd) | [4-16](combinational_circuits/4-to-16_decoder.vhd)) 
+  * Video ve vhdl kodları (Hazırlayan: Aleyna Özbek)
+    * [8-3](combinational_circuits/8-to-3_encoder.vhd) 
+    * [16-4](combinational_circuits/16-to-4_encoder.vhd)
+    * [3-8](combinational_circuits/3-to-8_decoder.vhd) 
+    * [4-16](combinational_circuits/4-to-16_decoder.vhd)
   * [Tutorial](https://github.com/zyavuz610/laboratory_apps_inKTU/blob/master/0_logic_design_lab/1_vhdl_ile_devre_tasarimi/0_documents/encoder_decoder_tutorial.pdf) (Hazırlayan: [Mehmet Santor](https://github.com/SANT0R/examples))
 
