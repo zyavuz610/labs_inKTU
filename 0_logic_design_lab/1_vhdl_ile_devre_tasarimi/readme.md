@@ -6,12 +6,6 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 * Kombinasyonel devreler tasarlar, VHDL kodunu yazar, simulasyon yapar
 * Ardışıl devreler tasarlar, VHDL kodunu yazar, simulasyon yapar
 
-**Deney Soruları**
-* VHDL, FPGA, ASIC nedir?
-* Fikir aşamasından üretim aşamasına kadar tasarım süreçleri nelerdir? Her bir adımda neler yapılır?
-* Sayısal tasarım devre türleri nelerdir? Aralarındaki farkları söyleyiniz?
-* Encoder, ALU, Full Adder, Flip Flop, Counter, Sonlu Durumum Makineleri (SDM) vb. türü devrelerin ardışıl ya da kombinasyonel olup olmadıklarını nedenleri ile birlikte söyleyiniz.
-
 ---
 
 ## Kaynaklar
@@ -60,6 +54,11 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 * Temel kavramlar öğrenilmelidir.
 * Video1 (16dk) ve Video 2 (~12dk) izlenmelidir.
 
+## Deney Hazırlık Soruları
+* VHDL, FPGA, ASIC nedir?
+* Fikir aşamasından üretim aşamasına kadar tasarım süreçleri nelerdir? Her bir adımda neler yapılır?
+* Sayısal tasarım devre türleri nelerdir? Aralarındaki farkları söyleyiniz?
+* Encoder, ALU, Full Adder, Flip Flop, Counter, Sonlu Durumum Makineleri (SDM) vb. türü devrelerin ardışıl ya da kombinasyonel olup olmadıklarını nedenleri ile birlikte söyleyiniz.
 
 ---
 
