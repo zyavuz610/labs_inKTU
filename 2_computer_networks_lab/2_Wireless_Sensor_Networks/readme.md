@@ -37,12 +37,14 @@ ant run
  </code>
 
 ## Örnek Yardımcı Videolar
-* [Contiki İşletim Sistemi Kurulumu](https://www.youtube.com/watch?v=-s3U3mV4JcQ)
-* [Contiki İşletim Sistemi Çalıştırma](https://www.youtube.com/watch?v=p3VWS1EbjMc)
-* [Cooja ile BroadCast Uygulaması](https://www.youtube.com/watch?v=9U9BJY53q2Y)
-* [Cooja ile Client Server Uygulaması](https://www.youtube.com/watch?v=QVnOr8WDnBI)
-* [Cooja ile Client Server Sensör Uygulaması]()
-* [Uygulama](https://www.youtube.com/watch?v=fPrQSneEob8&feature=youtu.be&app=desktop) (Cooja simulatörü, "Hello World", BroadCast, Client-Server Uygulaması)
+* **Örnek Çalışma 2**
+  * [Contiki İşletim Sistemi Kurulumu](https://www.youtube.com/watch?v=-s3U3mV4JcQ)
+  * [Contiki İşletim Sistemi Çalıştırma](https://www.youtube.com/watch?v=p3VWS1EbjMc)
+  * [Cooja ile BroadCast Uygulaması](https://www.youtube.com/watch?v=9U9BJY53q2Y)
+  * [Cooja ile Client Server Uygulaması](https://www.youtube.com/watch?v=QVnOr8WDnBI)
+  * [Cooja ile Client Server **Sensör** Uygulaması](https://www.youtube.com/watch?v=YW7UBMnBZ2E)
+* **Örnek Çalışma 2**
+  * [Uygulama](https://www.youtube.com/watch?v=fPrQSneEob8&feature=youtu.be&app=desktop) (Cooja simulatörü, "Hello World", BroadCast, Client-Server Uygulaması)
 
 ## DENEYDE GERÇEKLEŞTİRİLECEK UYGULAMALAR
 1. **COOJA** simülatörü kullanarak **"Hello World"** örneğini çalıştırın. Bu uygulamanın amacı:
