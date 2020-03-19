@@ -37,7 +37,8 @@ ant run
  </code>
 
 ## Örnek Yardımcı Videolar
-* [Video 1](https://www.youtube.com/watch?v=fPrQSneEob8&feature=youtu.be&app=desktop) (Cooja simulatörü, "Hello World", BroadCast, Client-Server Uygulaması)
+* [Contiki İşletim Sistemi Kurulumu](https://www.youtube.com/watch?v=-s3U3mV4JcQ)
+* [Uygulama](https://www.youtube.com/watch?v=fPrQSneEob8&feature=youtu.be&app=desktop) (Cooja simulatörü, "Hello World", BroadCast, Client-Server Uygulaması)
 
 ## DENEYDE GERÇEKLEŞTİRİLECEK UYGULAMALAR
 1. **COOJA** simülatörü kullanarak **"Hello World"** örneğini çalıştırın. Bu uygulamanın amacı:
