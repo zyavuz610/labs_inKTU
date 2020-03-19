@@ -57,3 +57,7 @@ ant run
   * [Wikipedia](https://en.wikipedia.org/wiki/Wireless_sensor_network)
   * [WSN Architecture](https://www.elprocus.com/architecture-of-wireless-sensor-network-and-applications/)
   * [WSN Overview-pdf](https://cdn.intechopen.com/pdfs/38793/InTechOverview_of_wireless_sensor_network.pdf)
+  
+---
+
+**Not:** Kırık linkleri lütfen zyavuz@ceng.ktu.edu.tr adresine bildiriniz.
