@@ -200,4 +200,5 @@ Elde edilen bu dijital darbeler sayılarak ya da bit şeklinde okunarak hareketi
 # KAYNAKÇA: 
 - https://www.coursehero.com/tutors-problems/Computer-Science/9973001-Please-refer-to-the-attachment-to-answer-this-question-This-question/
 - https://www.elektrikport.com/teknik-kutuphane/encoder--decoder-nedir/16911#ad-image-0
+- **Derleyen ve Hazırlayan:** [Mehmet Santor](https://github.com/SANT0R/examples)
  
