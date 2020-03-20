@@ -1,6 +1,6 @@
 
 
-![](/imgs/logo.jpg)
+![](imgs/logo.jpg)
 # SAYISAL TASARIM LABORATUVARI PROJE RAPORU DECODER VE ENCODER
 
 
