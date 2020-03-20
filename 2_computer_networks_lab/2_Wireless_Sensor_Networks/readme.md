@@ -37,7 +37,7 @@ ant run
  </code>
 
 ## Örnek Yardımcı Videolar
-* **Örnek Çalışma 2**
+* **Örnek Çalışma 1**
   * [Contiki İşletim Sistemi Kurulumu](https://www.youtube.com/watch?v=-s3U3mV4JcQ)
   * [Contiki İşletim Sistemi Çalıştırma](https://www.youtube.com/watch?v=p3VWS1EbjMc)
   * [Cooja ile BroadCast Uygulaması](https://www.youtube.com/watch?v=9U9BJY53q2Y)
