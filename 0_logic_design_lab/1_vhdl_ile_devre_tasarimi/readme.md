@@ -91,7 +91,7 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
     * *16-4 encoder*: [vhdl](combinational_circuits/16-to-4_encoder.vhd) | [video](https://www.youtube.com/watch?v=Zwku31DfQkM&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq&index=2)
     * *3-8 decoder*: [vhdl](combinational_circuits/3-to-8_decoder.vhd) | [video](https://www.youtube.com/watch?v=KW5uX0c2s6I&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq&index=1)
     * *4-16 decoder*: [vhdl](combinational_circuits/4-to-16_decoder.vhd) | [video](https://www.youtube.com/watch?v=KW5uX0c2s6I&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq&index=1)
-  * [Tutorial](https://github.com/zyavuz610/laboratory_apps_inKTU/blob/master/0_logic_design_lab/1_vhdl_ile_devre_tasarimi/0_documents/encoder_decoder_tutorial.pdf) (Hazırlayan: [Mehmet Santor](https://github.com/SANT0R/examples))
+  * **Tutorials** [pdf](https://github.com/zyavuz610/laboratory_apps_inKTU/blob/master/0_logic_design_lab/1_vhdl_ile_devre_tasarimi/0_documents/encoder_decoder_tutorial.pdf) | [Github](combinational_circuits\encoder_decoder.md) (Hazırlayan: [Mehmet Santor](https://github.com/SANT0R/examples))
 * **Multiplexer (Çoklayıcı) & Demultiplexer (Tekleyici)**
   * Video ve vhdl kodları (Hazırlayan: Büşra Oran)
     * *4-1 multiplexer*: vhdl | [video](https://www.youtube.com/watch?v=qlVf-e4ltEU&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq&index=3)
