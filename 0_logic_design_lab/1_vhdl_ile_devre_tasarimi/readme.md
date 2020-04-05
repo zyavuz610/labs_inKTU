@@ -54,6 +54,7 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
   * Toplama, Karşılaştırma, Tekleyici (multiplexer-MUX, 4 to 1), Çoklayıcı (DEMUX, 1 to 2 vb...)
   * Not kapısı, eDegil
   * 3 girişli AND, 3 girişli NAND vs...
+* **UZEM planında izlenecek devre videosu:** giriş 2 bit olan 4-1 mux ([Video](https://youtu.be/qlVf-e4ltEU) 0-4.38dk arası)
 
 ### Ardışıl Devre Örneği
 * Deney föyündeki çamaşır makinesi, → ön yıkama, kurutma durumu eklenebilir, her durumda R gelince başlangıca gidebilir.
