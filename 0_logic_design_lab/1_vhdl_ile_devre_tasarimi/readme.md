@@ -65,7 +65,7 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 * **Simulasyon**
   * Kare (saat sinyali) sinyal
   * Process → VHDL de sıralı işlemler process olarak yazılır.
-* * **UZEM planında izlenecek devre videosu:** Çamaşı makinesi SDM projesi ([Video](https://youtu.be/cg_CRbJMDLM) 7.10dk sonrası)
+* * **UZEM planında izlenecek devre videosu:** Çamaşı makinesi SDM projesi ([Video](https://youtu.be/cg_CRbJMDLM?t=430) 7.10dk sonrası)
 
 ---
 ## Uzaktan Eğitim Sürecinde Verilecek Ödev
