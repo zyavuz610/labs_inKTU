@@ -19,6 +19,22 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 * Encoder, ALU, Full Adder, Flip Flop, Counter, Sonlu Durumum Makineleri (SDM) vb. türü devrelerin ardışıl ya da kombinasyonel olup olmadıklarını nedenleri ile birlikte söyleyiniz.
 
 ## Deneyin Yürütme Planı
+### Temel Kavramlar ve Deneyle İlgili Bazı Notlar
+* HDL (Hardware Description Language) - Donanım Tanımlama Dili
+* VHDL ve Verilog FPGA programlamada en çok kullanılan HDL dilleridir.
+* VHDL → Very High –Speed Integrated Circuit Hardware Description Language
+* FPGA → Field Programmable Gate Array (Alanda Programlanabilen Kapı Dizisi)
+**VHDL iki amaç için kullanılır.**
+* Sentezleme: FPGA’e yüklenecek kodu oluşturmak için
+* Simülasyon: FPGA’e yüklenecek kodun simülasyonunu yapmak için
+**Behavioral Modelling - Davranışsal Modelleme**
+* Modelin giriş ve çıkış tepkileri davranışsal olarak tanımlanır.
+* Modelin iç yapısı ile ilgilenilmez.
+* Yanlızca devrenin işlevi ve fonksiyonelitesi ile ilgilenilir
+**Structural Modelling - Yapısal Modelleme**
+* Bir bileşenin daha alt seviyesindeki bileşenlerle arasındaki ilişkileri gösterir.
+* Yapısal tasarım, modelin yapısının tasarımcı tarafından yapılandırılması ilkesine dayanır.
+
 ### Tasarım Adımları
 * Proje fikri → Kodlama → Derleme → Fonksiyonel Sümulasyon → Zamansal Simulasyon → FPGA → Üretim
 * Akış şemasını çiziniz
