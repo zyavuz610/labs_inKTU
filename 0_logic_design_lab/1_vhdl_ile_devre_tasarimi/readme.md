@@ -9,7 +9,7 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 ---
 ## Deney Hazırlığı
 * Temel kavramlar öğrenilmelidir.
-* Video1 (16dk) ve Video 2 (~12dk) izlenmelidir.
+* [Video 1](https://youtu.be/Z6Ql3Jw2hTU) (16dk) ve [Video 2](https://youtu.be/cg_CRbJMDLM) (~12dk) izlenmelidir.
 
 ## Deney Hazırlık Soruları
 * HDL, VHDL, FPGA, ASIC nedir?
@@ -45,6 +45,15 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 * **Simulasyon**
   * Kare (saat sinyali) sinyal
   * Process → VHDL de sıralı işlemler process olarak yazılır.
+
+---
+## Uzaktan Eğitim Sürecinde Verilecek Ödev
+Ödev 2 kısımdan oluşmaktadır ve deneyin anlatıldığı günden başlamak üzere 2 hafta süresi bulunmaktadır.
+1. **Rapor:** Ödev Raporunun hazırlanması (2-3 sayfa, pdf formatında)
+1. **Video:** 4-8 dk. arasında süre alan kombinasyonel ya da ardışıl bir devre tasarımının kendi bilgisayarınızda yapılması ve tasarım aşamasından fonksiyonel simülasyon aşamasına kadar olan sürecin video olarak hazırlanması.
+1. **VHDL Kod:** Yazılan vhdl kaynak dosyasının gönderilmesi.
+
+**Not:** Her öğrencinin konusu ve ödevi nasıl göndereceği deney anlatım sırasında söylenecektir.
 
 ---
 
