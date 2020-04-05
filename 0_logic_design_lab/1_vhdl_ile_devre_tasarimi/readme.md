@@ -1,3 +1,4 @@
+# VHDL ile Devre Tasarımı
 KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 nolu deney olarak **VHDL ile Devre Tasarımı** yürütülmektedir.
 
 **Deneyin amacı;**
@@ -6,17 +7,18 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 * Kombinasyonel devreler tasarlamak, VHDL kodunu yazabilmek, simulasyon yapabilmek,
 * Ardışıl devreler tasarlamak, VHDL kodunu yazabilmek ve simulasyon yapabilmek.
 ---
-## Deney Yürütme Planı
+## Deney Hazırlığı
+* Temel kavramlar öğrenilmelidir.
+* Video1 (16dk) ve Video 2 (~12dk) izlenmelidir.
 
-
----
-
-
-
-### Bazı Temel Sorular
-* HDL, FPGA, VHDL ne demek? 
+## Deney Hazırlık Soruları
+* HDL, VHDL, FPGA, ASIC nedir?
 * ASIC, Arduino ile ne farkları vardır?
+* Fikir aşamasından üretim aşamasına kadar tasarım süreçleri nelerdir? Her bir adımda neler yapılır?
+* Sayısal tasarım devre türleri nelerdir? Aralarındaki farkları söyleyiniz?
+* Encoder, ALU, Full Adder, Flip Flop, Counter, Sonlu Durumum Makineleri (SDM) vb. türü devrelerin ardışıl ya da kombinasyonel olup olmadıklarını nedenleri ile birlikte söyleyiniz.
 
+## Deneyin Yürütme Planı
 ### Tasarım Adımları
 * Proje fikri → Kodlama → Derleme → Fonksiyonel Sümulasyon → Zamansal Simulasyon → FPGA → Üretim
 * Akış şemasını çiziniz
@@ -44,37 +46,6 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
   * Kare (saat sinyali) sinyal
   * Process → VHDL de sıralı işlemler process olarak yazılır.
 
-## Deney Hazırlığı
-* Temel kavramlar öğrenilmelidir.
-* Video1 (16dk) ve Video 2 (~12dk) izlenmelidir.
-
-## Deney Hazırlık Soruları
-* VHDL, FPGA, ASIC nedir?
-* Fikir aşamasından üretim aşamasına kadar tasarım süreçleri nelerdir? Her bir adımda neler yapılır?
-* Sayısal tasarım devre türleri nelerdir? Aralarındaki farkları söyleyiniz?
-* Encoder, ALU, Full Adder, Flip Flop, Counter, Sonlu Durumum Makineleri (SDM) vb. türü devrelerin ardışıl ya da kombinasyonel olup olmadıklarını nedenleri ile birlikte söyleyiniz.
-
----
-
-## Deneyle İlgili Bazı Notlar
-### HDL (Hardware Description Language) - Donanım Tanımlama Dili
-* VHDL ve Verilog FPGA programlamada en çok kullanılan HDL dilleridir. 
-* VHDL → Very High –Speed Integrated Circuit Hardware Description Language
-* FPGA → Field Programmable Gate Array (Alanda Programlanabilen Kapı Dizisi)
-
-### VHDL iki amaç için kullanılır.
-* Sentezleme: FPGA’e  yüklenecek kodu oluşturmak için
-* Simülasyon: FPGA’e yüklenecek kodun simülasyonunu yapmak için
-
-### Behavioral Modelling - Davranışsal Modelleme
-* Modelin giriş ve çıkış tepkileri davranışsal olarak tanımlanır.  
-* Modelin iç yapısı ile ilgilenilmez. 
-* Yanlızca devrenin işlevi ve fonksiyonelitesi ile ilgilenilir
-
-### Structural Modelling - Yapısal Modelleme
-* Bir bileşenin daha alt seviyesindeki bileşenlerle arasındaki ilişkileri gösterir. 
-* Yapısal tasarım, modelin yapısının tasarımcı tarafından yapılandırılması ilkesine dayanır.
-
 ---
 
 ## Kaynaklar
@@ -85,7 +56,7 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 * [Farklı devre örnekleri](https://www.youtube.com/watch?v=KW5uX0c2s6I&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq) (Youtube Videoları)
 
 ---
-## VHDL ile Sayısal Devreler
+## VHDL ile Sayısal Devre Örnekleri (Öğrenci Ödevleri)
 ### Kombinasyonel Devreler 
 * **Encoder  & Decoder**
   * Video ve vhdl kodları (Hazırlayan: Aleyna Özbek)
