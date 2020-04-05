@@ -1,26 +1,20 @@
 KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 nolu deney olarak **VHDL ile Devre Tasarımı** yürütülmektedir.
 
 **Deneyin amacı;**
-* VHDL, FPGA vb. sayısal tasarım kavramlarını bilmek,
+* HDL, VHDL, FPGA vb. sayısal tasarım kavramlarını bilmek,
 * Tasarım süreçlerini bilmek ve uygulamak,
 * Kombinasyonel devreler tasarlamak, VHDL kodunu yazabilmek, simulasyon yapabilmek,
 * Ardışıl devreler tasarlamak, VHDL kodunu yazabilmek ve simulasyon yapabilmek.
-
 ---
-
-## Kaynaklar
-* [Deney Föyü](0_documents/VHDL_deney_rapor_sablonu.pdf)
-* [Deney Raporu için Kullanılacak Şablon](0_documents/VHDL_deney_rapor_sablonu.pdf)
-* [Video 1](https://youtu.be/Z6Ql3Jw2hTU)'de proje tasarım aşamaları ve kombinasyonel devreler anlatılmaktadır.
-* [Video 2](https://youtu.be/cg_CRbJMDLM)'de ardışıl devre olarak çamaşır makinesi kodu yazılarak simulasyonu yapılmaktadır.
-* [Farklı devre örnekleri](https://www.youtube.com/watch?v=KW5uX0c2s6I&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq) (Youtube Videoları)
-
----
-
 ## Deney Yürütme Planı
 
+
+---
+
+
+
 ### Bazı Temel Sorular
-* FPGA, VHDL ne demek? 
+* HDL, FPGA, VHDL ne demek? 
 * ASIC, Arduino ile ne farkları vardır?
 
 ### Tasarım Adımları
@@ -83,6 +77,14 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 
 ---
 
+## Kaynaklar
+* [Deney Föyü](0_documents/VHDL_deney_rapor_sablonu.pdf)
+* [Deney Raporu için Kullanılacak Şablon](0_documents/VHDL_deney_rapor_sablonu.pdf)
+* [Video 1](https://youtu.be/Z6Ql3Jw2hTU)'de proje tasarım aşamaları ve kombinasyonel devreler anlatılmaktadır.
+* [Video 2](https://youtu.be/cg_CRbJMDLM)'de ardışıl devre olarak çamaşır makinesi kodu yazılarak simulasyonu yapılmaktadır.
+* [Farklı devre örnekleri](https://www.youtube.com/watch?v=KW5uX0c2s6I&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq) (Youtube Videoları)
+
+---
 ## VHDL ile Sayısal Devreler
 ### Kombinasyonel Devreler 
 * **Encoder  & Decoder**
