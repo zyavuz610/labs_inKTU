@@ -70,7 +70,7 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 ---
 ## Uzaktan Eğitim Sürecinde Verilecek Ödev
 Ödev 3 kısımdan oluşmaktadır ve deneyin anlatıldığı günden başlamak üzere 2 hafta süresi bulunmaktadır.
-1. **Rapor:** Ödev Raporunun hazırlanması (2-3 sayfa, pdf formatında)
+1. **Rapor:** Ödev Raporunun hazırlanması (2-3 sayfa, pdf formatında, şablon için [tıklayınız.](https://docs.google.com/document/d/1Dlo4Ryv9QW3a3m_orbNQwbk_16Antnj4AYYB8Ec-pJ4/edit?usp=sharing))
 1. **Video:** 4-8 dk. arasında süre alan kombinasyonel ya da ardışıl bir devre tasarımının kendi bilgisayarınızda yapılması ve tasarım aşamasından fonksiyonel simülasyon aşamasına kadar olan sürecin video olarak hazırlanması.
 1. **VHDL Kod:** Yazılan vhdl kaynak dosyasının gönderilmesi.
 
