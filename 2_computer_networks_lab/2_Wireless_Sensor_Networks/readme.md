@@ -47,12 +47,17 @@ ant run
   * [Uygulama](https://www.youtube.com/watch?v=fPrQSneEob8&feature=youtu.be&app=desktop) (Cooja simulatörü, "Hello World", BroadCast, Client-Server Uygulaması)
 
 ## DENEYDE GERÇEKLEŞTİRİLECEK UYGULAMALAR
-1. **COOJA** simülatörü kullanarak **"Hello World"** örneğini çalıştırın. Bu uygulamanın amacı:
+1. **COOJA** simülatörü kullanarak **"Hello World"** örneğini çalıştırın (contiki/examples/hello-world). **Bu uygulamanın amacı:**
    * cooja simulatörünü tanımak
    * istenen sayıda düğüm ekleyerek (Sky Mote) bu düğümlere kaynak kodu derleyerek göndermek.
    * simulasyon ektranında her bir kablosuz sensör düğümlerinin (mote) davranışlarını basitçe gözlemek.
-1. **COOJA** simülatörü kullanarak contiki/examples/ipv6/simple-upd-rpl/broadcastexample.c örneği gerçekleştirilecektir.
+1. **COOJA** simülatörü kullanarak contiki/examples/ipv6/simple-upd-rpl/broadcastexample.c örneği gerçekleştirilecektir. Bu uygulamada;
+   * 3-4 adet **Sky Mote** ekleyiniz. broadcastexample.c kodunu yükleyip derleyiniz.
+   * Kablosuz sensör ağlarda her bir düğümün davranışlarını gözlemleyiniz.
 1. **COOJA** simülatörü kullanılarak bir server/client uygulaması yapılacaktır. Bu uygulama için examples/ipv6/rpl-udp/udp-server.c ve examples/ipv6/rpl-udp/udp-client.c kaynak dosyaları kullanılacaktır.
+   * Bir **Sky Mote** ekleyiniz. server.c kodunu yükleyip derleyiniz.
+   * 3-4 adet **Sky Mote** ekleyiniz. client.c kodunu yükleyip derleyiniz.
+   * Kablosuz sensör ağlarda server ve client düğümlerinin davranışlarını gözlemleyiniz.
 1. **COOJA** simülatörü kullanarak Sky Mote sensör düğümlerinde bulunan sensörler ile sıcaklık, nem ve ışık değerleri okunacak ve server düğüme gönderilecektir. Bu uygulamada 2 de yapılan uygulamadan farklı olarak server cihazına “hello” mesajı yerine sensörlerden okunan değerler gönderilecektir.
    * Bu adım için Tmote Sky sensör fonksiyonları kullanabiliyor olmanız gerekir.
    * Alternatif olarak client düğümler kendi id numarasını sunucuya gönderebilirler (2 ya da daha çok sunucu olabilir), server düğüm[ler] bu numaraları alıp toplamını ekrana yazabilirler
