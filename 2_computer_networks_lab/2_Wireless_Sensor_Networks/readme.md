@@ -63,6 +63,26 @@ ant run
    * Alternatif olarak client düğümler kendi id numarasını sunucuya gönderebilirler (2 ya da daha çok sunucu olabilir), server düğüm[ler] bu numaraları alıp toplamını ekrana yazabilirler
 1. *İkinci adımda gerçekleştirilen simülatör uygulaması Sky Mote donanımlarıyla gerçeklenecektir. Sensörlerden okunan değerler “minicom” isimli metin tabanlı modem kontrol programıyla görüntülenecektir.*
 
+---
+
+# Uzaktan Eğitim Süreci
+## Deney Ödev Raporunun Hazırlanması
+* Laboratuvar deney ödevi olarak rapor + video çekimi şeklinde olmalıdır.
+* Rapor için laboratuvar web sayfasındaki şablon kullanılacak.
+* Çekilen video her öğrencinin kendi drive hesabında yüklü olacak ve bağlantısı rapora eklenecek
+* Video içerisinde
+  * Kurulum aşamaları
+  * contaki ve cooja simulatörünün çalıştırılması
+  * Hello World, Broadcast ve client server uygulamalarının yapılışı olmalıdır.
+* Video 7-8 dk. yı geçmemelidir.
+
+## Serbest Ödev Yapmak İsteyenler
+* zyavuz@ceng.ktu.edu.tr adresinden 30 Nisan 23.59'a kadar bana ulaşabilirler.
+* Ödevler bireysel yapılacak.
+* Finalde +25 puan alınacak. 
+
+---
+
 ## Önemli Bağlantılar
 * [Contiki Tutorial](https://anrg.usc.edu/contiki/index.php/Contiki_tutorials) - işletim sisteminin kurulumu ve örnek uygulamaları barındırır.
 * [Contiki OS](https://github.com/contiki-os/contiki)
