@@ -4,7 +4,7 @@
 library IEEE; --library kelimesi ile kütüphane eklenir.
  use IEEE.STD_LOGIC_1164.ALL; --kütüphane içindeki paketleri projeye dahil eder.
  use IEEE.NUMERIC_STD.ALL; -- Toplama ve çıkarmanın tanımlı olduğu library.
- entity ALU is –-devre elemanlarını tanıtır.
+ entity ALU is --devre elemanlarını tanıtır.
  Port ( giris1 : in signed (7 downto 0);  -- giriş , çıkış ve seçme girişi portlarını tanıtır.
       	giris2 : in signed (7 downto 0);
       	secme : in STD_LOGIC;
