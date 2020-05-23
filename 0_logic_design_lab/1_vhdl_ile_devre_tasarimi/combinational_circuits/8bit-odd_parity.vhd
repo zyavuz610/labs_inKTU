@@ -2,6 +2,7 @@
 --Yusuf CEYLAN 365274
 --19.04.2020
 --8 Bit Tek Parity 
+-- https://youtu.be/p9L-OP0sOk0
 
 library IEEE; -- Kütüphane eklenir.
 use IEEE.std_logic_1164.all; -- Kütüphane içindeki paketler projeye dahil edilir.
