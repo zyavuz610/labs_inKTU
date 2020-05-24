@@ -76,10 +76,10 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
   * Kurulum aşamaları
   * contaki ve cooja simulatörünün çalıştırılması
   * Hello World, Broadcast ve client server uygulamalarının yapılışı olmalıdır.
-* Video 7-8 dk. yı <u>geçmemelidir.</u>
+* Video 7-8 dk. yı **geçmemelidir.**
 
 ## Serbest Ödev Yapmak İsteyenler
-* zyavuz@ceng.ktu.edu.tr adresinden 30 Nisan 23.59'a kadar bana ulaşabilirler.
+* *zyavuz@ceng.ktu.edu.tr* adresinden 30 Nisan 23.59'a kadar bana ulaşabilirler.
 * Ödevler bireysel yapılacak.
 * Finalde +25 puan alınacak. 
 
