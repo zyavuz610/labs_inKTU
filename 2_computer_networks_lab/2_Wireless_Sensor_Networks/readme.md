@@ -36,6 +36,8 @@ Deneyde **contiki** işletim sistemi ve bu sisteme kurulu **coaja** simulatörü
 ant run
  </code>
 
+Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sırasıyla aşağıdaki videoları izleyerek deneyde yapılacak uygulamaları kendi kendinize deneyebilirsiniz.
+
 ## Örnek Yardımcı Videolar
 * **Örnek Çalışma 1**
   * [Contiki İşletim Sistemi Kurulumu](https://www.youtube.com/watch?v=-s3U3mV4JcQ)
@@ -67,14 +69,14 @@ ant run
 
 # Uzaktan Eğitim Süreci
 ## Deney Ödev Raporunun Hazırlanması
-* Laboratuvar deney ödevi olarak rapor + video çekimi şeklinde olmalıdır.
-* Rapor için laboratuvar web sayfasındaki şablon kullanılacak.
+* Laboratuvar deney ödevi olarak **rapor + video** çekimi şeklinde olmalıdır.
+* Rapor için laboratuvar web sayfasındaki *şablon* kullanılacak.
 * Çekilen video her öğrencinin kendi drive hesabında yüklü olacak ve bağlantısı rapora eklenecek
 * Video içerisinde
   * Kurulum aşamaları
   * contaki ve cooja simulatörünün çalıştırılması
   * Hello World, Broadcast ve client server uygulamalarının yapılışı olmalıdır.
-* Video 7-8 dk. yı geçmemelidir.
+* Video 7-8 dk. yı <u>geçmemelidir.</u>
 
 ## Serbest Ödev Yapmak İsteyenler
 * zyavuz@ceng.ktu.edu.tr adresinden 30 Nisan 23.59'a kadar bana ulaşabilirler.
