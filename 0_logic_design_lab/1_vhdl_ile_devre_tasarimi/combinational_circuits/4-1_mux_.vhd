@@ -1,4 +1,5 @@
--- 3 bit girisli 4-1 Mux Devresinin VHDL ile tasarlanmasi --
+-- 3 bit girisli 4-1 Mux Devresinin VHDL ile tasarlanmasi 
+-- https://www.youtube.com/watch?v=XBKXsvCVHXU&feature=youtu.be
 
 Library IEEE;
 Use IEEE.std_logic_1164.all;
