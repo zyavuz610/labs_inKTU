@@ -1,5 +1,5 @@
 # Wireless Sensor Networks (WSN)
-Bilgisayar Ağları Laboratuvarında bir deney olarak tasarlanan bu deney Kablosuz Sensör Ağlarının simulasyonunu yapmayı kapsamaktadır.
+Bilgisayar Ağları Laboratuvarında bir deney olarak tasarlanan bu deney **Kablosuz Sensör Ağları**nın simulasyonunu yapmayı kapsamaktadır.
 
 ---
 
