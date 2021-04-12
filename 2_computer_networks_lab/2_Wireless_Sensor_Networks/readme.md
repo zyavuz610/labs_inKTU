@@ -1,6 +1,5 @@
 # Wireless Sensor Networks (WSN)
 
-## Giriş
 
 Bilgisayar Ağları Laboratuvarında bir deney olarak tasarlanan bu deney **Kablosuz Sensör Ağları**nın simulasyonunu yapmayı kapsamaktadır.
 
