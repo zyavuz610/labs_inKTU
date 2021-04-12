@@ -38,7 +38,7 @@ ant run
 
 Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sırasıyla aşağıdaki videoları izleyerek deneyde yapılacak uygulamaları kendi kendinize deneyebilirsiniz.
 
-## Örnek Yardımcı Videolar
+## Yardımcı Videolar
 * **Örnek Çalışma 1**
   * [Contiki İşletim Sistemi Kurulumu](https://www.youtube.com/watch?v=-s3U3mV4JcQ)
   * [Contiki İşletim Sistemi Çalıştırma](https://www.youtube.com/watch?v=p3VWS1EbjMc)
@@ -60,6 +60,8 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
    * Bir **Sky Mote** ekleyiniz. server.c kodunu yükleyip derleyiniz.
    * 3-4 adet **Sky Mote** ekleyiniz. client.c kodunu yükleyip derleyiniz.
    * Kablosuz sensör ağlarda server ve client düğümlerinin davranışlarını gözlemleyiniz.
+
+### Ek Uygulamalar (*Yüzyüze Eğitimde gerçekleştirilmektedir*)
 1. **COOJA** simülatörü kullanarak Sky Mote sensör düğümlerinde bulunan sensörler ile sıcaklık, nem ve ışık değerleri okunacak ve server düğüme gönderilecektir. Bu uygulamada 2 de yapılan uygulamadan farklı olarak server cihazına “hello” mesajı yerine sensörlerden okunan değerler gönderilecektir.
    * Bu adım için Tmote Sky sensör fonksiyonları kullanabiliyor olmanız gerekir.
    * Alternatif olarak client düğümler kendi id numarasını sunucuya gönderebilirler (2 ya da daha çok sunucu olabilir), server düğüm[ler] bu numaraları alıp toplamını ekrana yazabilirler
@@ -67,21 +69,23 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
 
 ---
 
-# Uzaktan Eğitim Süreci
-## Deney Ödev Raporunun Hazırlanması
-* Laboratuvar deney ödevi olarak **rapor + video** çekimi şeklinde olmalıdır.
+# Uzaktan Eğitim Sürecinde Ölçme ve Değerlendirme
+## Deney Ödev Raporunun Hazırlanması (Arasınav için)
+* Laboratuvar deney ödevi olarak **rapor** hazırlanmalıdır.
 * Rapor için laboratuvar web sayfasındaki *şablon* kullanılacak.
 * Çekilen video her öğrencinin kendi drive hesabında yüklü olacak ve bağlantısı rapora eklenecek
 * Video içerisinde
   * Kurulum aşamaları
   * contaki ve cooja simulatörünün çalıştırılması
   * Hello World, Broadcast ve client server uygulamalarının yapılışı olmalıdır.
-* Video 7-8 dk. yı **geçmemelidir.**
 
-## Serbest Ödev Yapmak İsteyenler
-* *zyavuz@ceng.ktu.edu.tr* adresinden 30 Nisan 23.59'a kadar bana ulaşabilirler.
-* Ödevler bireysel yapılacak.
-* Finalde +25 puan alınacak. 
+## Deney Ödev Raporunun Hazırlanması (Dönemsonu sınavı için, %25 ağırlıkta)
+* Video 7-8 dk. yı **geçmemelidir.**
+* Çekilen video her öğrencinin kendi drive hesabında yüklü olacak ve bağlantısı rapora eklenecek
+* Video içerisinde
+  * Kurulum aşamaları
+  * contaki ve cooja simulatörünün çalıştırılması
+  * Hello World, Broadcast ve client server uygulamalarının yapılışı olmalıdır.
 
 ---
 
@@ -97,4 +101,4 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
   
 ---
 
-**Not:** Kırık linkleri lütfen zyavuz@ceng.ktu.edu.tr adresine bildiriniz.
+**Not:** Kırık linkleri lütfen *zyavuz@ceng.ktu.edu.tr* adresine bildiriniz.
