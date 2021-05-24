@@ -43,7 +43,9 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 * Akış şemasını çiziniz
 * Tümleşik devrelerin üretim aşamaları (HDL → Compile → Simulation → FPGA → Product)
 * VHDL proje bölümleri → Proje fikri → Kodlama → Derleme → Fonksiyonel Sümulasyon → Zamansal Simulasyon → FPGA → Üretim (Akış diyagramı?)
-* [ModelSim](https://www.intel.com/content/www/us/en/programmable/downloads/software/modelsim-starter/121.html) de (Altera Starter Edition) kod yazma ve simulasyon
+* [ModelSim-Intel FPGA Edition](https://fpgasoftware.intel.com/?product=modelsim_ae#tabs-2) de (includes Starter Edition) kod yazma ve simulasyon
+  * Doğrudan yazılımı indirmek yerine kurulum önce yapan yardımcı bir yazılım indirmek gerekebilir.
+  * Intel öğrencilere bu programı ücretsiz sunmaktadır. Öğrenci olarak sisteme kayıt olmanız gerekebilir.
 
 ### VHDL Kod Yapısı
 * kütüphane (kullanılan araçlar), entity (giriş, çıkış), architecture (mimari ve yapacağı iş için kod)
