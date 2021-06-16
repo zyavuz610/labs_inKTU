@@ -55,6 +55,7 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
   * Doğrudan yazılımı indirmek yerine kurulum önce yapan yardımcı bir yazılım indirmek gerekebilir.
   * Intel öğrencilere bu programı ücretsiz sunmaktadır. Öğrenci olarak sisteme kayıt olmanız gerekebilir. Intel dışında indirilen yazılımlar sorun yaratabilir.
   * Programı kurduğunuzda "Yönetici olarak çalıştır" seçeneği ile çalıştırmanız önerilir.
+  * Programda işaretleri gözlemek için gerekli "Wave" ekranı gözükmüyorsa "View" menüsü altından bu ekranı aktif yapabilirsiniz.
 * [Deeds Simulator](https://www.digitalelectronicsdeeds.com/index.html) yazılımı da simulasyon için kullanabileceğiniz alternatif bir yazılımdır. Bu deneyin işlenişinde kullanılmasa bile farklı uygulamalar denemek isteyen öğrencilerimiz "Sayısal Tasarım" konularını pekiştirebilirler.
 
 ### VHDL Kod Yapısı
