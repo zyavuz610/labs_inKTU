@@ -58,7 +58,7 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
   * Programda işaretleri gözlemek için gerekli "Wave" ekranı gözükmüyorsa "View" menüsü altından bu ekranı aktif yapabilirsiniz.
 * **Alternatif Yazılımlar**: _Simulasyon için kullanabileceğiniz alternatif bir yazılımlardır. Bu deneyin işlenişinde kullanılmasalar bile farklı uygulamalar denemek isteyen öğrencilerimiz "Sayısal Tasarım" konularını pekiştirebilirler._
   * [Deeds Simulator](https://www.digitalelectronicsdeeds.com/index.html) 
-  * [Multisim (National Insrtument)](https://www.ni.com/en-tr/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim/multisim-education.html)
+  * [Multisim (National Instruments)](https://www.ni.com/en-tr/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim/multisim-education.html)
     * [Modelsim Live](https://www.multisim.com/) - online uygulama
 
 ### VHDL Kod Yapısı
