@@ -18,6 +18,14 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 * Sayısal tasarım devre türleri nelerdir? Aralarındaki farkları söyleyiniz?
 * Encoder, ALU, Full Adder, Flip Flop, Counter, Sonlu Durumum Makineleri (SDM) vb. türü devrelerin ardışıl ya da kombinasyonel olup olmadıklarını nedenleri ile birlikte söyleyiniz.
 
+## Bazı Deney Kazanımları
+* Donanım tanımlama dilleri (VHDL vb.) ile ardışıl ve tümleşik devreler hakkında bilgi
+* Tasarım süreçleri hakkında bilgi
+* Kombinasyonel ve ardışıl devreler arasındaki farklar
+* Örnek bir simulasyon yazılımı olan ModelSim uygulaması üzerinden bir devrenin simülasyonunu gerçekleştirme 
+  * Kod yazımında ve derleme sırasında alınan hataları çözme becerisi ve bunlarla ilgili İngilizce araştırmalar yapabilme. 
+
+
 ## Deneyin Yürütme Planı
 ### Temel Kavramlar ve Deneyle İlgili Bazı Notlar
 * HDL (Hardware Description Language) - Donanım Tanımlama Dili
