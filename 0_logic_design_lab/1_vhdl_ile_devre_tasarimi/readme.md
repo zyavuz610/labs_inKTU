@@ -45,7 +45,8 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 * VHDL proje bölümleri → Proje fikri → Kodlama → Derleme → Fonksiyonel Sümulasyon → Zamansal Simulasyon → FPGA → Üretim (Akış diyagramı?)
 * [ModelSim-Intel FPGA Edition](https://fpgasoftware.intel.com/?product=modelsim_ae#tabs-2) de (includes Starter Edition) kod yazma ve simulasyon
   * Doğrudan yazılımı indirmek yerine kurulum önce yapan yardımcı bir yazılım indirmek gerekebilir.
-  * Intel öğrencilere bu programı ücretsiz sunmaktadır. Öğrenci olarak sisteme kayıt olmanız gerekebilir.
+  * Intel öğrencilere bu programı ücretsiz sunmaktadır. Öğrenci olarak sisteme kayıt olmanız gerekebilir. Intel dışında indirilen yazılımlar sorun yaratabilir.
+  * Programı kurduğunuzda "Yönetici olarak çalıştır" seçeneği ile çalıştırmanız önerilir.
 
 ### VHDL Kod Yapısı
 * kütüphane (kullanılan araçlar), entity (giriş, çıkış), architecture (mimari ve yapacağı iş için kod)
