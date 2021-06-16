@@ -81,7 +81,7 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 ---
 ## Uzaktan Eğitim Sürecinde Verilecek Ödev
 Ödev 3 kısımdan oluşmaktadır ve deneyin anlatıldığı günden başlamak üzere 2 hafta süresi bulunmaktadır.
-1. **Rapor:** Ödev Raporunun hazırlanması (2-3 sayfa, pdf formatında, şablon için [tıklayınız.](https://docs.google.com/document/d/1Dlo4Ryv9QW3a3m_orbNQwbk_16Antnj4AYYB8Ec-pJ4/edit?usp=sharing))
+1. **Rapor:** Ödev Raporunun hazırlanması (2-3 sayfa, şablon için [tıklayınız.](https://docs.google.com/document/d/1Dlo4Ryv9QW3a3m_orbNQwbk_16Antnj4AYYB8Ec-pJ4/edit?usp=sharing)) - (_bu şablonu kendi bilgisayarınıza "Dosya/İndir" seçeneği ile docx formatında indiriniz, raporunuzu yazıp pdf olarak kaydediniz ve bu raporu teslim ediniz_)
 1. **Video:** 4-8 dk. arasında süre alan kombinasyonel ya da ardışıl bir devre tasarımının kendi bilgisayarınızda yapılması ve tasarım aşamasından fonksiyonel simülasyon aşamasına kadar olan sürecin video olarak hazırlanması.
 1. **VHDL Kod:** Yazılan vhdl kaynak dosyasının gönderilmesi.
 
@@ -91,7 +91,7 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
 
 ## Kaynaklar
 * [Deney Föyü](0_documents/VHDL_deney_rapor_sablonu.pdf)
-* [Deney Raporu için Kullanılacak Şablon](0_documents/VHDL_deney_rapor_sablonu.pdf) - (sadece yüzyüze eğitimde)
+* [Deney Raporu için Kullanılacak Şablon](https://docs.google.com/document/d/1Dlo4Ryv9QW3a3m_orbNQwbk_16Antnj4AYYB8Ec-pJ4/edit?usp=sharing) - (_bu şablonu kendi bilgisayarınıza "Dosya/İndir" seçeneği ile docx formatında indiriniz, raporunuzu yazıp pdf olarak kaydediniz ve bu raporu teslim ediniz_)
 * [Video 1](https://youtu.be/Z6Ql3Jw2hTU)'de proje tasarım aşamaları ve kombinasyonel devreler anlatılmaktadır.
 * [Video 2](https://youtu.be/cg_CRbJMDLM)'de ardışıl devre olarak çamaşır makinesi kodu yazılarak simulasyonu yapılmaktadır.
 * [Farklı devre örnekleri](https://www.youtube.com/watch?v=KW5uX0c2s6I&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq) (Youtube Videoları)
