@@ -56,7 +56,9 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
   * Intel öğrencilere bu programı ücretsiz sunmaktadır. Öğrenci olarak sisteme kayıt olmanız gerekebilir. Intel dışında indirilen yazılımlar sorun yaratabilir.
   * Programı kurduğunuzda "Yönetici olarak çalıştır" seçeneği ile çalıştırmanız önerilir.
   * Programda işaretleri gözlemek için gerekli "Wave" ekranı gözükmüyorsa "View" menüsü altından bu ekranı aktif yapabilirsiniz.
-* [Deeds Simulator](https://www.digitalelectronicsdeeds.com/index.html) yazılımı da simulasyon için kullanabileceğiniz alternatif bir yazılımdır. Bu deneyin işlenişinde kullanılmasa bile farklı uygulamalar denemek isteyen öğrencilerimiz "Sayısal Tasarım" konularını pekiştirebilirler.
+* **Alternatif Yazılımlar**: Simulasyon için kullanabileceğiniz alternatif bir yazılımlardır. Bu deneyin işlenişinde kullanılmasalar bile farklı uygulamalar denemek isteyen öğrencilerimiz "Sayısal Tasarım" konularını pekiştirebilirler.
+  * [Deeds Simulator](https://www.digitalelectronicsdeeds.com/index.html) yazılımı da simulasyon için 
+  * [Multisim (National Insrtument)](https://www.ni.com/en-tr/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim/multisim-education.html)
 
 ### VHDL Kod Yapısı
 * kütüphane (kullanılan araçlar), entity (giriş, çıkış), architecture (mimari ve yapacağı iş için kod)
@@ -119,3 +121,6 @@ KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 
     * *4 bit half-adder*: vhdl | [video](https://www.youtube.com/watch?v=FTmJkX7pvf8&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq&index=5)
     * *4 bit full-adder*: vhdl | [video](https://www.youtube.com/watch?v=FTmJkX7pvf8&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq&index=6)
 
+---
+
+Kırık linkler olduğunda lütfen zyavuz@ceng.ktu.edu.tr adresine bildiriniz.
