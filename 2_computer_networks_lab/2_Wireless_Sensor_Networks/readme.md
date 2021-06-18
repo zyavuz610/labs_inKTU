@@ -31,7 +31,7 @@ Deneyde **contiki** işletim sistemi ve bu sisteme kurulu **coaja** simulatörü
      * **username**: *user*
      * **password**: *user*
    * **Not:** Contiki işletim işletim sistemini mevcut bir Linux dağıtımına kaynak paketleri ([Github](https://github.com/contiki-os/contiki/releases)) kullanarak da kurabilirsiniz. Ancak  deneyde "Instant Contiki" seçeneği üzerinden devam edilecektir.
-1. Aşağıdaki kodu çalıştırın ve coaja simulatörünü açın, sonraki bölümdeki uygulamaları gerçekleştirin.
+1. Aşağıdaki kodu çalıştırın ve coaja simulatörünü açın, sonraki bölümdeki uygulamaları gerçekleştirin (_komutları çalıştırırken yönetici rolü gerekebilir, bu nedenle komutun başına **sudo** ön komutu eklemek gerekebilir_).
 <code>
  cd contiki/tools/cooja 
  
