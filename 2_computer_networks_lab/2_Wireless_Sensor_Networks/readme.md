@@ -81,7 +81,7 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
   * contaki ve cooja simulatörünün çalıştırılması
   * Hello World, Broadcast ve client server uygulamalarının yapılışı olmalıdır.
 
-## Deney Ödev Raporunun Hazırlanması (Dönemsonu sınavı için, %25 ağırlıkta)
+## Deney Ödev Raporunun Hazırlanması (Dönemsonu sınavı için)
 * Video 7-8 dk. yı **geçmemelidir.**
 * Çekilen video her öğrencinin kendi drive hesabında yüklü olacak ve bağlantısı rapora eklenecek
 * Video içerisinde
