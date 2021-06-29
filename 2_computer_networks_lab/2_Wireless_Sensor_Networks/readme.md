@@ -9,7 +9,12 @@ Deney hakkında bilgi edinmek ve deneye hazırlanmak için [Deney Föyü](http:/
 
 ---
 
+Aşağıdaki şekilde kabaca kablosuz sensör ağların yapısı verilmektedir.
+
 ![WSN](/2_computer_networks_lab/2_Wireless_Sensor_Networks/Example-of-a-wireless-sensor-network-based-on-the-Berkeley-mote-platform-The-circles.png)
+
+---
+## Deney ile ilgili Anahtar Bilgiler
 
 **Amaç**, sıcaklık, ses, basınç, nem gibi fiziksel ve çevresel değişiklikleri algılamak ve algılanan veriyi kurulan kablosuz ağ üzerinden işbirliği içerisinde ana bir merkeze iletmektir. 
 
