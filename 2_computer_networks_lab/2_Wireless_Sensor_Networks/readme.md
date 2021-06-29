@@ -5,7 +5,7 @@ Bilgisayar Ağları Laboratuvarında bir deney olarak tasarlanan bu deney **Kabl
 
 ---
 
-[Deney Föyü](http://www.ktu.edu.tr/dosyalar/bilgisayar_ce12e.pdf)
+Deney hakkında bilgi edinmek ve deneye hazırlanmak için [Deney Föyü](http://www.ktu.edu.tr/dosyalar/bilgisayar_ce12e.pdf)'nü okumalısınız.
 
 ---
 
