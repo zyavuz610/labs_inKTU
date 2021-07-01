@@ -1,5 +1,6 @@
 # Wireless Sensor Networks (WSN)
 
+## Deney Hakkında Ön Bilgilendirme
 
 Bilgisayar Ağları Laboratuvarında bir deney olarak tasarlanan bu deney **Kablosuz Sensör Ağları**nın simulasyonunu yapmayı kapsamaktadır.
 
@@ -29,6 +30,7 @@ Kablosuz sensör ağlarda sensör düğümlerinin çalışması 3 aşamada düş
   
 Deneyde **contiki** işletim sistemi ve bu sisteme kurulu **coaja** simulatörü kullanılacaktır.
 
+
 ## Kurulum
 1. Bilgisayarınızın donanım düzeyinde sanallaştırma "[Hardware Virtualization](https://h30434.www3.hp.com/t5/image/serverpage/image-id/23649i03555FB16979A05D/image-size/original?v=v2&px=-1)" seçeneği aktif olmalı
 1. Bir linux dağıtımına kurulu "[Instant Contiki](https://sourceforge.net/projects/contiki/files/Instant%20Contiki/)" paketini (2.7 veya daha üst sürüm) elde edinin ve [VMware Workstation Player](https://www.vmware.com/) (veya [VirtualBox](https://www.virtualbox.org/)) sanal makinesine bu paketi kurun. (Üzerinde WSN simulasyonu için gerekli tüm araçlar ve contiki paketleri kurulu ubuntu işletim sistemi kurulu olacaktır)
@@ -45,7 +47,7 @@ ant run
 
 Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sırasıyla aşağıdaki videoları izleyerek deneyde yapılacak uygulamaları kendi kendinize deneyebilirsiniz.
 
-## Yardımcı Videolar
+## Deneyin Yapılışına İlişkin Yardımcı Videolar
 * **Çalışma 1**
   * [Contiki İşletim Sistemi Kurulumu](https://www.youtube.com/watch?v=-s3U3mV4JcQ)
   * [Contiki İşletim Sistemi Çalıştırma](https://www.youtube.com/watch?v=p3VWS1EbjMc)
@@ -76,8 +78,8 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
 
 ---
 
-# Uzaktan Eğitim Sürecinde Ölçme ve Değerlendirme
-## Deney Ödev Raporunun Hazırlanması (Arasınav için)
+## Uzaktan Eğitim Sürecinde Ölçme ve Değerlendirme
+### Deney Ödev Raporunun Hazırlanması (Arasınav için)
 * Laboratuvar deney ödevi olarak **rapor** hazırlanmalıdır.
 * Rapor için laboratuvar web sayfasındaki *şablon* kullanılacak.
 * Çekilen video her öğrencinin kendi drive hesabında yüklü olacak ve bağlantısı rapora eklenecek
@@ -86,7 +88,7 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
   * contaki ve cooja simulatörünün çalıştırılması
   * Hello World, Broadcast ve client server uygulamalarının yapılışı olmalıdır.
 
-## Deney Ödev Raporunun Hazırlanması (Dönemsonu sınavı için)
+### Deney Ödev Raporunun Hazırlanması (Dönemsonu sınavı için)
 * Video 7-8 dk. yı **geçmemelidir.**
 * Çekilen video her öğrencinin kendi drive hesabında yüklü olacak ve bağlantısı rapora eklenecek
 * Video içerisinde
@@ -96,7 +98,7 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
 
 ---
 
-## Önemli Bağlantılar
+## Önemli Bağlantılar (Kaynaklar)
 * [Contiki Tutorial](https://anrg.usc.edu/contiki/index.php/Contiki_tutorials) - işletim sisteminin kurulumu ve örnek uygulamaları barındırır.
 * [Contiki OS](https://github.com/contiki-os/contiki)
 * [Contiki-NG OS](https://github.com/contiki-ng/contiki-ng)
