@@ -2,9 +2,9 @@ Bu depo, KTÜ Bilgisayar Mühendisliği Bölümünde yürüttüğüm laboratuvar
 
 ## Verdiğim Laboratuvar Dersleri
 * Sayısal Tasarım Lab.
-  * VHDL ile Devre Tasarımı
+  * VHDL ile Devre Tasarımı (2018-...)
 * Bilgisayar Organizasyonu Lab.
-  * Analog-Digital Converter (ADC) - Analog Sayısal Dönüştürücü
+  * Analog-Digital Converter (ADC) - Analog Sayısal Dönüştürücü (2005-...)
 * Bilgisayar Ağları Lab.
   * SIP - Oturum Başlatma Protokolü (2016-2019)
-  * Kablosuz Sensör Ağları (2019-günümüz)
+  * Kablosuz Sensör Ağları (2019-...)
