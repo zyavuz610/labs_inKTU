@@ -1,0 +1,64 @@
+Sorular (AIKEN Formatı)
+Bir ADC sisteminde minimum ve maksimum değerler sırasıyla -12.8V ve 12.7V olarak ayarlanmaktadır. 8 bit ADC tasarlandığı düşünülürse kuantum değerini hesaplayınız.
+A) 10^-2V
+B) 10^2V
+C) 0.1mV
+D) 100mV
+E) 10mV
+ANSWER: D
+
+Minimum ve maksimum değerleri sırasıyla 0V ve 2.55V olan 8 bitlik bir ADC sisteminde 1.23V giriş gerilimi sayısala çevrilirken ardışıl yaklaşım yöntemi kullanılmaktadır. Çevrilme döngüsünün 3. adımında DA dönüştürücünün girişine uygulanan sayısal bilgi ne olur?
+A) 1110 0000
+B) 0110 0000
+C) 0010 0000
+D) 0000 0100
+E) 0000 0011
+ANSWER: B
+
+Minimum ve maksimum değerleri sırasıyla 0V ve 2.55V olan 8 bitlik bir ADC sisteminde 1.23V giriş gerilimi sayısala çevrilirken ardışıl yaklaşım yöntemi kullanılmaktadır. Çevrilme döngüsünün 5. adımında DA dönüştürücünün girişine uygulanan sayısal bilgi ne olur?
+A) 0111 1000
+B) 0110 0000
+C) 0010 0000
+D) 0001 0000
+E) 0000 0101
+ANSWER: A
+
+Minimum ve maksimum değerleri sırasıyla 0V ve 2.55V olan 8 bitlik bir ADC sisteminde 1.23V giriş gerilimi sayısala çevrilirken ardışıl yaklaşım yöntemi kullanılmaktadır. Çevrilme döngüsünün 7. adımında DA dönüştürücünün girişine uygulanan sayısal bilgi ne olur?
+A) 0111 1111
+B) 0110 1110
+C) 0000 0010
+D) 0111 1010
+E) 0000 0111
+ANSWER: D
+
+Minimum ve maksimum değerleri sırasıyla 0V ve 3.75V olan 4 bitlik bir ADC sisteminde 1.7V giriş gerilimi sayısala çevrilirken rampa yöntemi kullanılmaktadır. Çevrilme döngüsünün 3. adımında DA dönüştürücünün girişine uygulanan sayısal bilgi ne olur? (1. adımda DA dönüştürücünün girişine 0V karşılığı olan (0b0000) uygulandığını dikkate alınız)
+A) 0b1000
+B) 0b0101
+C) 0b0010
+D) 0b0011
+E) 0b0100
+ANSWER: C
+
+Minimum ve maksimum değerleri sırasıyla 0V ve 3.75V olan 4 bitlik bir ADC sisteminde 1.7V giriş gerilimi sayısala çevrilirken rampa yöntemi kullanılmaktadır. Çevrilme döngüsünün 5. adımında DA dönüştürücünün girişine uygulanan sayısal bilgi ne olur? (1. adımda DA dönüştürücünün girişine (0b0001) uygulandığını dikkate alınız)
+A) 0b1000
+B) 0b0100
+C) 0b0010
+D) 0b0011
+E) 0b0101
+ANSWER: E
+
+Minimum ve maksimum değerleri sırasıyla 0V ve 2.55V olan 8 bitlik bir ADC sisteminde 0.7V giriş gerilimi sayısala çevrilirken rampa yöntemi kullanılmaktadır. Çevrilme döngüsünün 7. adımında DA dönüştürücünün girişine uygulanan sayısal bilgi ne olur? (1. adımda DA dönüştürücünün girişine (0b0001) uygulandığını dikkate alınız)
+A) 0b0000 0111
+B) 0b0100 0110
+C) 0b0010 0011
+D) 0b0100 0111
+E) 0b0000 0110 
+ANSWER: A
+
+Örnekleme frekansı 9600Hz olan bir ses kartında her bir örnek 24 bit ile sayısala çevrildiğinde toplamda 2 saniyelik ses sinyalinin sayısal karşılığının boyutunu ne olur? (Herhangi bir kodlama ve sıkıştırma tekniği kullanılmamıştır)
+A) 460800 byte
+B) 230400 byte
+C) 57600 byte
+D) 19200 byte
+E) 28800 byte 
+ANSWER: C
