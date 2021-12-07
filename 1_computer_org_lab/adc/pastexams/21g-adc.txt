@@ -1,0 +1,1 @@
+final|bütünleme sınavındaki sorular geçmiş yıllardaki soruların mantığında olacaktır.
