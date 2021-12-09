@@ -4,6 +4,7 @@
 
 Deneyin ana içeriği [buradan](https://github.com/zyavuz610/labs_inKTU/blob/master/1_computer_org_lab/adc/analog_digital_converter(ADC).ipynb) erişebileceğiniz Jypiter Notebook dosyasıdır.
 
+
 ## Geçmiş Yıllardaki Kaynaklar
 - 2020-2021 Güz Yarıyılı Uzaktan Eğitim Ders Kayıtları
   - [1. öğretim](https://ktu2.adobeconnect.com/_a3703744362/pya079kvw8xy/?session=em2breezwpyce4pqixwzhrsz)
