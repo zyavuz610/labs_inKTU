@@ -61,9 +61,8 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 * Akış şemasını çiziniz
 * Tümleşik devrelerin üretim aşamaları (HDL → Compile → Simulation → FPGA → Product)
 * VHDL proje bölümleri → Proje fikri → Kodlama → Derleme → Fonksiyonel Sümulasyon → Zamansal Simulasyon → FPGA → Üretim (Akış diyagramı?)
-* [ModelSim-Intel FPGA Edition](https://fpgasoftware.intel.com/?product=modelsim_ae#tabs-2) de (includes Starter Edition) kod yazma ve simulasyon
+* [Intel® Quartus® Prime Lite Edition Design Software](https://www.intel.com/content/www/us/en/software-kit/684216/intel-quartus-prime-lite-edition-design-software-version-21-1-for-windows.html?) kullanarak kod yazma ve simulasyon
   * Doğrudan yazılımı indirmek yerine kurulum önce yapan yardımcı bir yazılım indirmek gerekebilir.
-  * Intel öğrencilere bu programı ücretsiz sunmaktadır. Öğrenci olarak sisteme kayıt olmanız gerekebilir. Intel dışında indirilen yazılımlar sorun yaratabilir.
   * Programı kurduğunuzda "Yönetici olarak çalıştır" seçeneği ile çalıştırmanız önerilir.
   * Programda işaretleri gözlemek için gerekli "Wave" ekranı gözükmüyorsa "View" menüsü altından bu ekranı aktif yapabilirsiniz.
 * **Alternatif Yazılımlar**: _Simulasyon için kullanabileceğiniz alternatif bir yazılımlardır. Bu deneyin işlenişinde kullanılmasalar bile farklı uygulamalar denemek isteyen öğrencilerimiz "Sayısal Tasarım" konularını pekiştirebilirler._
