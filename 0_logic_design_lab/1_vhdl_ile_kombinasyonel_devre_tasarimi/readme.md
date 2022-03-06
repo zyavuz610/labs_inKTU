@@ -8,7 +8,7 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 ### Deneyin amacı
 * HDL, VHDL, FPGA vb. sayısal tasarım kavramlarını bilmek,
 * Tasarım süreçlerini bilmek ve uygulamak,
-* Kombinasyonel devreler tasarlamak, VHDL kodunu yazabilmek, simulasyon yapabilmek,
+* Kombinasyonel devreler tasarlamak, VHDL kodunu yazabilmek, simulasyon yapabilmek.
 ---
 ### Deney Hazırlığı
 * Temel kavramlar öğrenilmelidir.
@@ -32,10 +32,12 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 
 ## Deneyin Yürütme Planı
 ### Temel Kavramlar ve Deneyle İlgili Bazı Notlar
-* HDL (Hardware Description Language) - Donanım Tanımlama Dili
-* VHDL ve Verilog FPGA programlamada en çok kullanılan HDL dilleridir.
-* VHDL → Very High –Speed Integrated Circuit Hardware Description Language
 * FPGA → Field Programmable Gate Array (Alanda Programlanabilen Kapı Dizisi)
+  * Programlanabilen devre (donanım), programlanabilen kapı dizisi
+* HDL (Hardware Description Language) - Donanım Tanımlama Dili
+  * FPGA programlamak için kullanılan dil ailesi
+* VHDL ve Verilog FPGA programlamada en çok kullanılan HDL dilleridir.
+* VHDL → Very High–Speed Integrated Circuit Hardware Description Language
 
 **VHDL iki amaç için kullanılır.**
 * Sentezleme: FPGA’e yüklenecek kodu oluşturmak için
