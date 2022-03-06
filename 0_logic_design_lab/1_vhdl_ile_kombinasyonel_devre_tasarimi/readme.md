@@ -16,7 +16,7 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 
 ### Deney Hazırlık Soruları
 * HDL, VHDL, FPGA, ASIC nedir?
-* ASIC, Arduino ile ne farkları vardır?
+* FPGA ile ASIC, Arduino ile ne farkları vardır?
 * Fikir aşamasından üretim aşamasına kadar tasarım süreçleri nelerdir? Her bir adımda neler yapılır?
 * Sayısal tasarım devre türleri nelerdir? Aralarındaki farkları söyleyiniz?
 * Encoder, ALU, Full Adder, Flip Flop, Counter, Sonlu Durumum Makineleri (SDM) vb. türü devrelerin ardışıl ya da kombinasyonel olup olmadıklarını nedenleri ile birlikte söyleyiniz.
@@ -34,9 +34,13 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 ### Temel Kavramlar ve Deneyle İlgili Bazı Notlar
 * FPGA → Field Programmable Gate Array (Alanda Programlanabilen Kapı Dizisi)
   * Programlanabilen devre (donanım), programlanabilen kapı dizisi
+  * Donanım sabit değil, yazılım ile nasıl bir donanım olduğu tanımlanıyor
 * HDL (Hardware Description Language) - Donanım Tanımlama Dili
   * FPGA programlamak için kullanılan dil ailesi
-* VHDL ve Verilog FPGA programlamada en çok kullanılan HDL dilleridir.
+* ASIC → Application Specific Circuit
+  * Sadece belirli işlemleri gerçekleştirmek için tasarlanmış donanım
+* CPU, Arduino -> Programlanabilen donanım, donanım sabit, yazılım ile farklı işlemler yapılabiliyor
+* VHDL ve Verilog FPGA programlamada en çok kullanılan HDL dillerindendir.
 * VHDL → Very High–Speed Integrated Circuit Hardware Description Language
 
 **VHDL iki amaç için kullanılır.**
