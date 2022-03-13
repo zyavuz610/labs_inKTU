@@ -40,7 +40,7 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 
 ## Deneyin Yürütme Planı
 ### Temel Kavramlar ve Deneyle İlgili Bazı Notlar
-* [Genel Bilgiler]()
+* [Genel Bilgiler](genel_bilgiler.md)
 * FPGA → Field Programmable Gate Array (Alanda Programlanabilen Kapı Dizisi)
   * Programlanabilen devre (donanım), programlanabilen kapı dizisi
   * Donanım sabit değil, yazılım ile nasıl bir donanım olduğu tanımlanıyor
