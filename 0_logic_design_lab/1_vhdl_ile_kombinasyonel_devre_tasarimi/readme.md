@@ -15,8 +15,8 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 * [Genel Açıklamalar ve Lab. Uygulama Yönergesi](https://docs.google.com/document/d/1QmXaHd2HeeSVDXp7UfI83uhN4SyQ2lyejMCl-dehbYc/edit#)
 
 **Deney Hazırlık Videoları**
-1. [Laboratuvar Tanıtımı](https://youtu.be/Z6Ql3Jw2hTU)
-2. [Genel Bilgiler](https://youtu.be/Z6Ql3Jw2hTU)
+1. [Laboratuvar Tanıtımı](https://youtu.be/m1h4yaRUZNo)
+2. [Genel Bilgiler](https://youtu.be/GM-62MMqvH8)
 3. [3 girişli OR işlemi](https://youtu.be/Z6Ql3Jw2hTU)
 4. [Çift eşlik biti](https://youtu.be/Z6Ql3Jw2hTU)
 5. [Hamming kodlama ve Hata Bulma](https://youtu.be/Z6Ql3Jw2hTU)
@@ -104,11 +104,9 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 ---
 
 ## Kaynaklar
-* [Deney Föyü](0_documents/VHDL_deney_rapor_sablonu.pdf)
-* [Deney Raporu için Kullanılacak Şablon](https://docs.google.com/document/d/1Dlo4Ryv9QW3a3m_orbNQwbk_16Antnj4AYYB8Ec-pJ4/edit?usp=sharing) - (_bu şablonu kendi bilgisayarınıza "Dosya/İndir" seçeneği ile docx formatında indiriniz, raporunuzu yazıp pdf olarak kaydediniz ve bu raporu teslim ediniz_)
 * [Video 1](https://youtu.be/Z6Ql3Jw2hTU)'de proje tasarım aşamaları ve kombinasyonel devreler anlatılmaktadır.
 * [Video 2](https://youtu.be/cg_CRbJMDLM)'de ardışıl devre olarak çamaşır makinesi kodu yazılarak simulasyonu yapılmaktadır.
-* [Farklı devre örnekleri](https://www.youtube.com/watch?v=KW5uX0c2s6I&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq) (Youtube Videoları)
+* [Farklı devre örnekleri](https://www.youtube.com/watch?v=KW5uX0c2s6I&list=PLcjh-_Mx3C9Ozs5U6qc2idUcsnTP5UyEq) (Youtube Videoları, İbrahim Savran )
 
 ---
 ## VHDL ile Sayısal Devre Örnekleri (Öğrenci Ödevleri)
