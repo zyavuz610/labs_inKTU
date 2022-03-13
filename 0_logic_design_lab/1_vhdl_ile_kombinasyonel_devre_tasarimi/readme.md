@@ -12,7 +12,7 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 ---
 ### Deney Hazırlığı
 * Temel kavramlar öğrenilmelidir. ([Deney föyü](https://www.ktu.edu.tr/dosyalar/bilgisayar_ae476.pdf))
-* [Yarıyıl Planı](https://docs.google.com/document/d/1QmXaHd2HeeSVDXp7UfI83uhN4SyQ2lyejMCl-dehbYc/edit#)
+* [Genel Açıklamalar ve Lab. Uygulama Yönergesi](https://docs.google.com/document/d/1QmXaHd2HeeSVDXp7UfI83uhN4SyQ2lyejMCl-dehbYc/edit#)
 
 **Deney Hazırlık Videoları**
 1. [Laboratuvar Tanıtımı](https://youtu.be/Z6Ql3Jw2hTU)
