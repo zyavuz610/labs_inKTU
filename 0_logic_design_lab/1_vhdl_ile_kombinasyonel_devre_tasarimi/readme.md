@@ -82,24 +82,10 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 ### VHDL Kod Yapısı
 * kütüphane (kullanılan araçlar), entity (giriş, çıkış), architecture (mimari ve yapacağı iş için kod)
 
-### Kombinasyonel Devre Örneği
-* Bellek birimi yok, 
-* **Örnek:** 
-  * Toplama, Karşılaştırma, Tekleyici (multiplexer-MUX, 4 to 1), Çoklayıcı (DEMUX, 1 to 2 vb...)
-  * Not kapısı, eDegil
-  * 3 girişli AND, 3 girişli NAND vs...
-* **UZEM planında izlenecek devre videosu:** giriş 2 bit olan 4-1 mux ([Video](https://youtu.be/qlVf-e4ltEU) 0-4.38dk arası)
-
----
-
-## Uzaktan Eğitim Sürecinde Verilecek Ödev
-
-Ödev 3 kısımdan oluşmaktadır ve deneyin anlatıldığı günden başlamak üzere 2 hafta süresi bulunmaktadır.
-1. **Rapor:** Ödev Raporunun hazırlanması (2-3 sayfa, şablon için [tıklayınız.](https://docs.google.com/document/d/1Dlo4Ryv9QW3a3m_orbNQwbk_16Antnj4AYYB8Ec-pJ4/edit?usp=sharing)) - (_bu şablonu kendi bilgisayarınıza "Dosya/İndir" seçeneği ile docx formatında indiriniz, raporunuzu yazıp pdf olarak kaydediniz ve bu raporu teslim ediniz_)
-1. **Video:** 4-8 dk. arasında süre alan kombinasyonel ya da ardışıl bir devre tasarımının kendi bilgisayarınızda yapılması ve tasarım aşamasından fonksiyonel simülasyon aşamasına kadar olan sürecin video olarak hazırlanması.
-1. **VHDL Kod:** Yazılan vhdl kaynak dosyasının gönderilmesi.
-
-**Not:** Her öğrencinin konusu ve ödevi nasıl göndereceği deney anlatım sırasında söylenecektir.
+### Kombinasyonel Devre Örnekleri
+* 3 girişli OR
+* Çift parity biti
+* Hamming ile kodlama ve hata bulma
 
 ---
 
