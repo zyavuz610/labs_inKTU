@@ -15,10 +15,10 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 * [Yarıyıl Planı](https://docs.google.com/document/d/1QmXaHd2HeeSVDXp7UfI83uhN4SyQ2lyejMCl-dehbYc/edit#)
 * **Deney Hazırlık Videoları**
   1. [Laboratuvar Tanıtımı](https://youtu.be/Z6Ql3Jw2hTU)
-  1. [Genel Bilgiler](https://youtu.be/Z6Ql3Jw2hTU)
-  1. [3 girişli OR işlemi](https://youtu.be/Z6Ql3Jw2hTU)
-  1. [Çift eşlik biti](https://youtu.be/Z6Ql3Jw2hTU)
-  1. [Hamming kodlama ve Hata Bulma](https://youtu.be/Z6Ql3Jw2hTU)
+  2. [Genel Bilgiler](https://youtu.be/Z6Ql3Jw2hTU)
+  3. [3 girişli OR işlemi](https://youtu.be/Z6Ql3Jw2hTU)
+  4. [Çift eşlik biti](https://youtu.be/Z6Ql3Jw2hTU)
+  5. [Hamming kodlama ve Hata Bulma](https://youtu.be/Z6Ql3Jw2hTU)
 * **Opsiyonel**: [Video 1](https://youtu.be/Z6Ql3Jw2hTU) (16dk) ve [Video 2](https://youtu.be/cg_CRbJMDLM) (~12dk) izlenmelidir.
 
 ### Deney Hazırlık Soruları
