@@ -9,4 +9,4 @@ _Aşağıdaki linkler yardımıyla yeni deney sayfalarına gidebilirsiniz._
 * [VHDL ile Ardışıl Devre Tasarımı (Durum Makineleri)](2_vhdl_ile_ardisil_devre_tasarimi/readme.md)
 
 ## Geçmiş Dönem
-* [VHDL ile Devre Tasarımı](_vhdl_ile_devre_tasarimi/readme.md)
+* [VHDL ile Devre Tasarımı](_vhdl_ile_devre_tasarimi/readme.md) - (2018-2021)
