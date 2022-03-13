@@ -17,10 +17,25 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 **Deney Hazırlık Videoları**
 1. [Laboratuvar Tanıtımı](https://youtu.be/m1h4yaRUZNo)
 2. [Genel Bilgiler](https://youtu.be/GM-62MMqvH8)
-3. [3 girişli OR işlemi](https://youtu.be/Z6Ql3Jw2hTU)
+3. [3 girişli OR işlemi](https://youtu.be/F-CK1crxn0o)
 4. [Çift eşlik biti](https://youtu.be/Z6Ql3Jw2hTU)
 5. [Hamming kodlama ve Hata Bulma](https://youtu.be/Z6Ql3Jw2hTU)
 * **Opsiyonel**: [Video 1](https://youtu.be/Z6Ql3Jw2hTU) (16dk) ve [Video 2](https://youtu.be/cg_CRbJMDLM) (~12dk) izlenmelidir.
+
+### Deney Raporunda İstenen
+* Rapor, grup halinde deney bitiminden sonra 1-2 haftalık süre içerisinde hazırlanmalıdır.
+* Rapor, grubu oluşturan öğrencilerin deney esnasında aldıkları notları birleştirerek her grup için tek bir rapor olacak şekilde hazırlanmalıdır.
+* Deney raporu, grubu oluşturan öğrencilerden biri tarafından verilen sürede teslim edilmelidir ve kapak hariç 3-4 sayfadan oluşmalıdır.
+* Raporda her bir kod için **deney tasarlama, deney yapma, veri toplama, sonuçları analiz etme ve yorumlama** bölümleri olmalıdır. Gruptaki her öğrenci rapordan eşit derecede sorumludur.
+* Raporlar UZEM’deki derste size açılacak moodle sistemi üzerinden grubu oluşturan öğrencilerden biri tarafından pdf formatında teslim edilmelidir.
+* **Rapor Konusu ve İçeriği**
+  * Temel ve Teorik Bilgiler
+  * 3 girişli AND devresi VHDL kodu ve fonksiyonel simülasyon
+  * tek eşlik biti VHDL kodu ve fonksiyonel simülasyon
+  * Hamming kodlama ve hata bulma için en az 3 kez farklı bitleri bozarak hata düzeltme VHDL kodu ve fonksiyonel simülasyon.
+
+
+---
 
 ### Deney Hazırlık Soruları
 * HDL, VHDL, FPGA, ASIC nedir?
