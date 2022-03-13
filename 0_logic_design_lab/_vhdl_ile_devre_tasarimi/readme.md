@@ -2,9 +2,9 @@
 
 ---
 ### Bu deney 2021-22 Bahar yarıyılından itibaren 2 deneye bölünmüştür.
-<font color="red">Aşağıdaki linkler yardımıyla yeni deney sayfalarına gidebilirsiniz.</font>
-* [VHDL ile Kombinasyonel Devre Tasarımı (Kodlama ve Hata Bulma Teknikleri)](0_logic_design_lab\1_vhdl_ile_kombinasyonel_devre_tasarimi\readme.md)
-* [VHDL ile Ardışıl Devre Tasarımı (Durum Makineleri)](0_logic_design_lab\2_vhdl_ile_ardisil_devre_tasarimi\readme.md)
+_Aşağıdaki linkler yardımıyla yeni deney sayfalarına gidebilirsiniz._
+* [VHDL ile Kombinasyonel Devre Tasarımı (Kodlama ve Hata Bulma Teknikleri)](0_logic_design_lab/1_vhdl_ile_kombinasyonel_devre_tasarimi/readme.md)
+* [VHDL ile Ardışıl Devre Tasarımı (Durum Makineleri)](0_logic_design_lab/2_vhdl_ile_ardisil_devre_tasarimi/readme.md)
 ---
 KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 nolu deney olarak **VHDL ile Devre Tasarımı** yürütülmektedir.
 
