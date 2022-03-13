@@ -13,11 +13,11 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 ### Deney Hazırlığı
 * Temel kavramlar öğrenilmelidir. ([Deney föyü](https://www.ktu.edu.tr/dosyalar/bilgisayar_ae476.pdf))
 * **Deney Hazırlık Videoları**
-  * [Laboratuvar Tanıtımı](https://youtu.be/Z6Ql3Jw2hTU)
-  * [Genel Bilgiler](https://youtu.be/Z6Ql3Jw2hTU)
-  * [3 girişli OR işlemi](https://youtu.be/Z6Ql3Jw2hTU)
-  * [Çift eşlik biti](https://youtu.be/Z6Ql3Jw2hTU)
-  * [Hamming kodlama ve Hata Bulma](https://youtu.be/Z6Ql3Jw2hTU)
+  1. [Laboratuvar Tanıtımı](https://youtu.be/Z6Ql3Jw2hTU)
+  1. [Genel Bilgiler](https://youtu.be/Z6Ql3Jw2hTU)
+  1. [3 girişli OR işlemi](https://youtu.be/Z6Ql3Jw2hTU)
+  1. [Çift eşlik biti](https://youtu.be/Z6Ql3Jw2hTU)
+  1. [Hamming kodlama ve Hata Bulma](https://youtu.be/Z6Ql3Jw2hTU)
 * **Opsiyonel**: [Video 1](https://youtu.be/Z6Ql3Jw2hTU) (16dk) ve [Video 2](https://youtu.be/cg_CRbJMDLM) (~12dk) izlenmelidir.
 
 ### Deney Hazırlık Soruları
