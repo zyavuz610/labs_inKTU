@@ -34,7 +34,6 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
   * 3 girişli AND devresi VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir)
   * tek eşlik biti VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir)
   * Hamming kodlama ve hata bulma için en az 3 kez farklı bitleri bozarak hata düzeltme VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir).
-  * 
 
 
 ---
