@@ -24,7 +24,7 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 * **Opsiyonel**: [Video 1](https://youtu.be/Z6Ql3Jw2hTU) (16dk) ve [Video 2](https://youtu.be/cg_CRbJMDLM) (~12dk) izlenmelidir.
 
 ### Ödev Açıklaması
-* Bu deney için öncelikle deney föyünü okumalı ve hazırlık videolarını izlemelisinir.
+* Bu deney için öncelikle deney föyünü okumalı ve hazırlık videolarını izlemelisiniz.
 * 3 adet deney yaparak videolarının çekimini yapmalısınız, linklerini rapora eklemelisiniz (videolar en az 1 yıl erişime açık kalacak şekilde ayarlanmalıdır).
   * 1.video: 3 girişli AND devresi VHDL kodu ve fonksiyonel simülasyon
   * 2.video: tek eşlik biti VHDL kodu ve fonksiyonel simülasyon
