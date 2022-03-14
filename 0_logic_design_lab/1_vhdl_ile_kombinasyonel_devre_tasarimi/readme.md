@@ -26,9 +26,9 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 ### Ödev Açıklaması
 * Bu deney için öncelikle deney föyünü okumalı ve hazırlık videolarını izlemelisinir.
 * 3 adet deney yaparak videolarının çekimini yapmalısınız, linklerini rapora eklemelisiniz (videolar en az 1 yıl erişime açık kalacak şekilde ayarlanmalıdır).
-  * 1. video: 3 girişli AND devresi VHDL kodu ve fonksiyonel simülasyon
-  * 2. video: tek eşlik biti VHDL kodu ve fonksiyonel simülasyon
-  * 3. video: Hamming kodlama ve hata bulma için en az 3 kez farklı bitleri bozarak hata düzeltme VHDL kodu ve fonksiyonel simülasyon
+  * 1.video: 3 girişli AND devresi VHDL kodu ve fonksiyonel simülasyon
+  * 2.video: tek eşlik biti VHDL kodu ve fonksiyonel simülasyon
+  * 3.video: Hamming kodlama ve hata bulma için en az 3 kez farklı bitleri bozarak hata düzeltme VHDL kodu ve fonksiyonel simülasyon
 * Deney raporu hazırlayarak süresi içerisinde yüklemelisiniz.
 
 ### Deney Raporunda İstenen
