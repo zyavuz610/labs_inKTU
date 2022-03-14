@@ -23,8 +23,6 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 * **Videolarda yazılan kodlar**: 
 * **Opsiyonel**: [Video 1](https://youtu.be/Z6Ql3Jw2hTU) (16dk) ve [Video 2](https://youtu.be/cg_CRbJMDLM) (~12dk) izlenmelidir.
 
-
-
 ### Deney Raporunda İstenen
 * Rapor, grup halinde deney bitiminden sonra 1-2 haftalık süre içerisinde hazırlanmalıdır.
 * Rapor, grubu oluşturan öğrencilerin deney esnasında aldıkları notları birleştirerek her grup için tek bir rapor olacak şekilde hazırlanmalıdır.
