@@ -1,4 +1,4 @@
-# VHDL ile Kombinasyonel Devre Tasarımı
+# VHDL ile Ardışıl Devre Tasarımı
 Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 2 nolu deney olarak verilen  **VHDL ile Ardışıl Devre Tasarımı** için hazırlanmıştır.
 
 ---
