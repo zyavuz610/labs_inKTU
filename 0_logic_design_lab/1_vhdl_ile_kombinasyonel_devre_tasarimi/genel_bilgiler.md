@@ -47,7 +47,7 @@
 - Altera 
 	- kuruluş: 1983
 	- Intel satın aldı, 2015, 16.7 milyar dolar
-	- satın alınmadan önce yıllım kazanç, ~2 milyar dolar
+	- satın alınmadan önce yıllık kazanç, ~2 milyar dolar
 	- 3000 civarı çalışan
 - Xilinx 
 	- kuruluş:1984,
