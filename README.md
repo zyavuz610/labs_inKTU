@@ -14,5 +14,5 @@ Bu depo, KTÜ Bilgisayar Mühendisliği Bölümünde yürüttüğüm laboratuvar
   * Kablosuz Sensör Ağları (2019-...)
 
   [vhdl01]: 0_logic_design_lab/_vhdl_ile_devre_tasarimi/readme.md
-  [vhdl02]: 0_logic_design_lab/vhdl_ile_kombinasyonel_devre_tasarimi/readme.md
-  [vhdl03]: 0_logic_design_lab/vhdl_ile_ardisil_devre_tasarimi/readme.md
+  [vhdl02]: 0_logic_design_lab/1_vhdl_ile_kombinasyonel_devre_tasarimi/readme.md
+  [vhdl03]: 0_logic_design_lab/2_vhdl_ile_ardisil_devre_tasarimi/readme.md
