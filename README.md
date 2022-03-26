@@ -10,9 +10,11 @@ Bu depo, KTÜ Bilgisayar Mühendisliği Bölümünde yürüttüğüm laboratuvar
   * Analog-Digital Converter (ADC) - Analog Sayısal Dönüştürücü (2005-...)
     * [Jupyter Notebok](1_computer_org_lab/adc/analog_digital_converter(ADC).ipynb)
 * **Bilgisayar Ağları Lab.**
-  * SIP - Oturum Başlatma Protokolü (2016-2019)
-  * Kablosuz Sensör Ağları (2019-...)
+  * Kablosuz Sensör Ağları (2019-...) - [yeni dönem][aglab02]
+  * _SIP - Oturum Başlatma Protokolü (2016-2019) - [geçmiş dönemler][aglab01]_
 
   [vhdl01]: 0_logic_design_lab/_vhdl_ile_devre_tasarimi/readme.md
   [vhdl02]: 0_logic_design_lab/1_vhdl_ile_kombinasyonel_devre_tasarimi/readme.md
   [vhdl03]: 0_logic_design_lab/2_vhdl_ile_ardisil_devre_tasarimi/readme.md
+  [aglab01]: 2_computer_networks_lab/5_Session_Initiation_Protokol-SIP/readme.md
+  [aglab02]: 2_computer_networks_lab/2_Wireless_Sensor_Networks/readme.md
