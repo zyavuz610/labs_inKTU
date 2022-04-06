@@ -46,15 +46,14 @@ ant run
 
 Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sırasıyla aşağıdaki videoları izleyerek deneyde yapılacak uygulamaları kendi kendinize deneyebilirsiniz.
 
-## Deneyin Yapılışına İlişkin Yardımcı Videolar
-* **Çalışma 1**
-  * [Contiki İşletim Sistemi Kurulumu](https://www.youtube.com/watch?v=-s3U3mV4JcQ)
-  * [Contiki İşletim Sistemi Çalıştırma](https://www.youtube.com/watch?v=p3VWS1EbjMc)
-  * [Cooja ile BroadCast Uygulaması](https://www.youtube.com/watch?v=9U9BJY53q2Y)
-  * [Cooja ile Client Server Uygulaması](https://www.youtube.com/watch?v=QVnOr8WDnBI)
-  * [Cooja ile Client Server **Sensör** Uygulaması](https://www.youtube.com/watch?v=YW7UBMnBZ2E)
-* **Çalışma 2**
-  * [Uygulama](https://www.youtube.com/watch?v=fPrQSneEob8&feature=youtu.be&app=desktop) (Cooja simulatörü, "Hello World", BroadCast, Client-Server Uygulaması)
+## Deneyin Yapılışına İlişkin Videolar
+* [Deney Açıklaması | "Instant Contiki" Kurulumu](https://www.youtube.com/watch?v=K5WOALitaDI)
+* [Cooja ile BroadCast Uygulaması](https://www.youtube.com/watch?v=9U9BJY53q2Y)
+* [Cooja ile Client Server Uygulaması](https://www.youtube.com/watch?v=QVnOr8WDnBI)
+* [Cooja ile Client Server **Sensör** Uygulaması](https://www.youtube.com/watch?v=YW7UBMnBZ2E)
+
+---
+
 
 ## DENEYDE GERÇEKLEŞTİRİLECEK UYGULAMALAR
 1. **COOJA** simülatörü kullanarak **"Hello World"** örneğini çalıştırın (contiki/examples/hello-world). **Bu uygulamanın amacı:**
@@ -77,23 +76,15 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
 
 ---
 
-## Uzaktan Eğitim Sürecinde Ölçme ve Değerlendirme
-### Deney Ödev Raporunun Hazırlanması (Arasınav için)
-* Laboratuvar deney ödevi olarak **rapor** hazırlanmalıdır.
-* Rapor için laboratuvar web sayfasındaki *şablon* kullanılacak.
-* Çekilen video her öğrencinin kendi drive hesabında yüklü olacak ve bağlantısı rapora eklenecek
-* Video içerisinde
-  * Kurulum aşamaları
-  * contaki ve cooja simulatörünün çalıştırılması
-  * Hello World, Broadcast ve client server uygulamalarının yapılışı olmalıdır.
-
-### Deney Ödev Raporunun Hazırlanması (Dönemsonu sınavı için)
-* Video 7-8 dk. yı **geçmemelidir.**
-* Çekilen video her öğrencinin kendi drive hesabında yüklü olacak ve bağlantısı rapora eklenecek
-* Video içerisinde
-  * Kurulum aşamaları
-  * contaki ve cooja simulatörünün çalıştırılması
-  * Hello World, Broadcast ve client server uygulamalarının yapılışı olmalıdır.
+## Deneyin Yapılışına İlişkin Diğer Videolar
+* **Çalışma 1**
+  * [Contiki İşletim Sistemi Kurulumu](https://www.youtube.com/watch?v=-s3U3mV4JcQ)
+  * [Contiki İşletim Sistemi Çalıştırma](https://www.youtube.com/watch?v=p3VWS1EbjMc)
+  * [Cooja ile BroadCast Uygulaması](https://www.youtube.com/watch?v=9U9BJY53q2Y)
+  * [Cooja ile Client Server Uygulaması](https://www.youtube.com/watch?v=QVnOr8WDnBI)
+  * [Cooja ile Client Server **Sensör** Uygulaması](https://www.youtube.com/watch?v=YW7UBMnBZ2E)
+* **Çalışma 2**
+  * [Uygulama](https://www.youtube.com/watch?v=fPrQSneEob8&feature=youtu.be&app=desktop) (Cooja simulatörü, "Hello World", BroadCast, Client-Server Uygulaması)
 
 ---
 
