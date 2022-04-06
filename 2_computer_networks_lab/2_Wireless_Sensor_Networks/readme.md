@@ -69,7 +69,7 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
    * 3-4 adet **Sky Mote** ekleyiniz. client.c kodunu yükleyip derleyiniz.
    * Kablosuz sensör ağlarda server ve client düğümlerinin davranışlarını gözlemleyiniz.
 
-### Ek Uygulamalar (*Yüzyüze Eğitimde gerçekleştirilmektedir*)
+### Ek Uygulamalar
 1. **COOJA** simülatörü kullanarak Sky Mote sensör düğümlerinde bulunan sensörler ile sıcaklık, nem ve ışık değerleri okunacak ve server düğüme gönderilecektir. Bu uygulamada 2 de yapılan uygulamadan farklı olarak server cihazına “hello” mesajı yerine sensörlerden okunan değerler gönderilecektir.
    * Bu adım için Tmote Sky sensör fonksiyonları kullanabiliyor olmanız gerekir.
    * Alternatif olarak client düğümler kendi id numarasını sunucuya gönderebilirler (2 ya da daha çok sunucu olabilir), server düğüm[ler] bu numaraları alıp toplamını ekrana yazabilirler
