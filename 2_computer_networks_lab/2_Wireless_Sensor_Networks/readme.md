@@ -54,6 +54,12 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
 
 ---
 
+## Deney Raporuna İlişkin Açıklama
+* Deney raporu grup olarak yazılacak ve grup üyelerinden biri tarafından sisteme yüklenecektir.
+* Deney raporu yukarıdaki 4 videonun uygulanışını içeren ekran görüntüleri ve gerekli açıklamaları içermelidir.
+* Raporda **deney tasarlama, deney yapma, veri toplama, sonuçları analiz etme ve yorumlama** bölümleri olmalıdır. Gruptaki her öğrenci rapordan eşit derecede sorumludur.
+
+---
 
 ## DENEYDE GERÇEKLEŞTİRİLECEK UYGULAMALAR
 1. **COOJA** simülatörü kullanarak **"Hello World"** örneğini çalıştırın (contiki/examples/hello-world). **Bu uygulamanın amacı:**
