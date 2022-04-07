@@ -56,18 +56,20 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
 * Deney raporu grup olarak yazılacak ve grup üyelerinden biri tarafından sisteme yüklenecektir.
 * Deney raporu yukarıdaki 4 videonun uygulanışını içeren ekran görüntüleri ve gerekli açıklamaları içermelidir.
 * Raporda **deney tasarlama, deney yapma, veri toplama, sonuçları analiz etme ve yorumlama** bölümleri olmalıdır. Gruptaki her öğrenci rapordan eşit derecede sorumludur.
+* Raporu, grup üyelerinden herhangi biri uzem modülünde bu deney için açılan ödeve **pdf** formatında süresi içinde yüklenmesi yeterlidir.
+* [Rapor Açıklaması]()
 
 ---
 
 ## DENEYDE GERÇEKLEŞTİRİLECEK UYGULAMALAR
-1. **COOJA** simülatörü kullanarak **"Hello World"** örneğini çalıştırın (contiki/examples/hello-world). **Bu uygulamanın amacı:**
+1. **COOJA** simülatörü kullanarak **"Hello World"** örneğini çalıştırın (_contiki/examples/hello-world_). **Bu uygulamanın amacı:**
    * cooja simulatörünü tanımak
    * istenen sayıda düğüm ekleyerek (Sky Mote) bu düğümlere kaynak kodu derleyerek göndermek.
    * simulasyon ektranında her bir kablosuz sensör düğümlerinin (mote) davranışlarını basitçe gözlemek.
-1. **COOJA** simülatörü kullanarak contiki/examples/ipv6/simple-upd-rpl/broadcastexample.c örneği gerçekleştirilecektir. Bu uygulamada;
+1. **COOJA** simülatörü kullanarak _contiki/examples/ipv6/simple-upd-rpl/broadcastexample.c_ örneği gerçekleştirilecektir. Bu uygulamada;
    * 3-4 adet **Sky Mote** ekleyiniz. broadcastexample.c kodunu yükleyip derleyiniz.
    * Kablosuz sensör ağlarda her bir düğümün davranışlarını gözlemleyiniz.
-1. **COOJA** simülatörü kullanılarak bir server/client uygulaması yapılacaktır. Bu uygulama için examples/ipv6/rpl-udp/udp-server.c ve examples/ipv6/rpl-udp/udp-client.c kaynak dosyaları kullanılacaktır.
+1. **COOJA** simülatörü kullanılarak bir server/client uygulaması yapılacaktır. Bu uygulama için _examples/ipv6/rpl-udp/udp-server.c_ ve _examples/ipv6/rpl-udp/udp-client.c_ kaynak dosyaları kullanılacaktır.
    * Bir **Sky Mote** ekleyiniz. server.c kodunu yükleyip derleyiniz.
    * 3-4 adet **Sky Mote** ekleyiniz. client.c kodunu yükleyip derleyiniz.
    * Kablosuz sensör ağlarda server ve client düğümlerinin davranışlarını gözlemleyiniz.
