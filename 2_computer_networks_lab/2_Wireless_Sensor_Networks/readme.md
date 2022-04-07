@@ -57,7 +57,7 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
 * Deney raporu yukarıdaki 4 videonun uygulanışını içeren ekran görüntüleri ve gerekli açıklamaları içermelidir.
 * Raporda **deney tasarlama, deney yapma, veri toplama, sonuçları analiz etme ve yorumlama** bölümleri olmalıdır. Gruptaki her öğrenci rapordan eşit derecede sorumludur.
 * Raporu, grup üyelerinden herhangi biri uzem modülünde bu deney için açılan ödeve **pdf** formatında süresi içinde yüklenmesi yeterlidir.
-* [Rapor Açıklaması]()
+* [Rapor Açıklaması](https://youtu.be/mrsMAEgOZZ0?t=1507)
 
 ---
 
