@@ -48,7 +48,8 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
 
 ## Deneyin Yapılışına İlişkin Videolar
 * [Deney Açıklaması | "Instant Contiki" Kurulumu](https://www.youtube.com/watch?v=K5WOALitaDI)
-* [Deney Uygulamaları](https://www.youtube.com/watch?v=9U9BJY53q2Y)
+* [Deney Uygulamaları: Cooja ile Simülayon - HelloWorld | BroadCast | Client-Server](https://www.youtube.com/watch?v=mrsMAEgOZZ0)
+* [Client-Server Deneyi - Kaynak Kod Açıklaması ve Sensör Uygulaması](https://www.youtube.com/watch?v=mrsMAEgOZZ0)
 
 ---
 
