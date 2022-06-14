@@ -8,9 +8,8 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 * [Genel Açıklamalar ve Lab. Uygulama Yönergesi](https://docs.google.com/document/d/1QmXaHd2HeeSVDXp7UfI83uhN4SyQ2lyejMCl-dehbYc/edit#)
 
 **Deney Hazırlık Videoları**
-1. [Laboratuvar Tanıtımı](https://youtu.be/m1h4yaRUZNo)
-2. [Temel kavramlar ve genel bilgiler](https://youtu.be/GM-62MMqvH8)
-3. [Sonlu Durum Makinesi ile Çamaşır Makinesi Problemi](https://youtu.be/E0rt9_qNqWc), _[Kaynak kod](eSDM.vhd)_ 
+1. [Temel kavramlar ve genel bilgiler](https://youtu.be/GM-62MMqvH8)
+1. [Sonlu Durum Makinesi ile Çamaşır Makinesi Problemi](https://youtu.be/E0rt9_qNqWc), _[Kaynak kod](eSDM.vhd)_ 
 * **Opsiyonel**: Daha fazla bilgi için [Video 1](https://youtu.be/Z6Ql3Jw2hTU) (16dk) ve [Video 2](https://youtu.be/cg_CRbJMDLM) (~12dk) izlenebir.
 
 ### Ödev Açıklaması
