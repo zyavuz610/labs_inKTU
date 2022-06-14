@@ -15,11 +15,10 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 * [Genel Açıklamalar ve Lab. Uygulama Yönergesi](https://docs.google.com/document/d/1QmXaHd2HeeSVDXp7UfI83uhN4SyQ2lyejMCl-dehbYc/edit#)
 
 **Deney Hazırlık Videoları**
-1. [Laboratuvar Tanıtımı](https://youtu.be/m1h4yaRUZNo)
-2. [Genel Bilgiler](https://youtu.be/GM-62MMqvH8)
-3. [3 girişli OR işlemi](https://youtu.be/F-CK1crxn0o), _[Kaynak kod](eVeya.vhd)_
-4. [Çift eşlik biti](https://youtu.be/gSsEVL2PKz0), _[Kaynak kod](eParity.vhd)_
-5. [Hamming kodlama ve Hata Bulma](https://youtu.be/FWAJL-FcpYs), _[Kaynak kod](eHam.vhd)_ 
+1. [Genel Bilgiler](https://youtu.be/GM-62MMqvH8)
+1. [3 girişli OR işlemi](https://youtu.be/F-CK1crxn0o), _[Kaynak kod](eVeya.vhd)_
+1. [Çift eşlik biti](https://youtu.be/gSsEVL2PKz0), _[Kaynak kod](eParity.vhd)_
+1. [Hamming kodlama ve Hata Bulma](https://youtu.be/FWAJL-FcpYs), _[Kaynak kod](eHam.vhd)_ 
 * **Opsiyonel**: [Video 1](https://youtu.be/Z6Ql3Jw2hTU) (16dk) ve [Video 2](https://youtu.be/cg_CRbJMDLM) (~12dk) izlenmelidir.
 
 ### Ödev Açıklaması
