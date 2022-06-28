@@ -13,5 +13,7 @@ Bu sayfa Sayısal Tasarım Lab. dersinde verdiğim deney içerikleri için hazı
 ---
 ## Geçmiş Yıllarda Sorulan Sorular
 * [2021-22 Bahar Final Sınavı][22b-final]
+* [2021-22 Bahar Bütünleme Sınavı][22b-but]
 
 [22b-final]: 0_logic_design_lab\21-22-s_Final_Cevaplar-Sayısal-Tasarım-Lab..pdf
+[22b-but]: 0_logic_design_lab\21-22-s_Bütünleme_Sorular-Sayısal-Tasarım-Lab.pdf
