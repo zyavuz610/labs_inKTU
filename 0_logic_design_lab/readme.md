@@ -1,4 +1,4 @@
-# Sayısal Tasarımm Lab.
+# Sayısal Tasarım Lab.
 Bu sayfa Sayısal Tasarım Lab. dersinde verdiğim deney içerikleri için hazırlanmıştır.
 
 ---
