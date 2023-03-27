@@ -19,7 +19,6 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 1. [3 girişli OR işlemi](https://youtu.be/F-CK1crxn0o), _[Kaynak kod](eVeya.vhd)_
 1. [Çift eşlik biti](https://youtu.be/gSsEVL2PKz0), _[Kaynak kod](eParity.vhd)_
 1. [Hamming kodlama ve Hata Bulma](https://youtu.be/FWAJL-FcpYs), _[Kaynak kod](eHam.vhd)_ 
-* **Opsiyonel**: [Video 1](https://youtu.be/Z6Ql3Jw2hTU) (16dk) ve [Video 2](https://youtu.be/cg_CRbJMDLM) (~12dk) izlenmelidir.
 
 ### Ödev Açıklaması
 * **[ÖDEV Açıklaması (video)](https://youtu.be/v5daz6YzBmk)**

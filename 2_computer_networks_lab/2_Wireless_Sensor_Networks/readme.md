@@ -21,7 +21,7 @@ Aşağıdaki şekilde kabaca kablosuz sensör ağların yapısı verilmektedir.
 Kablosuz sensör ağlarda her bir **sensör düğümü (mote)** olarak isimlendirilir.
 
 Kablosuz sensör ağlarda sensör düğümlerinin çalışması 3 aşamada düşünülebilir.
-* **Algılama (Sensing):** Sensörler vasıtasıyla fiziksel biyiklükler algılanır ve sayısal değer olarak iletilir.
+* **Algılama (Sensing):** Sensörler vasıtasıyla fiziksel büyüklükler algılanır ve sayısal değer olarak iletilir.
 * **Bilgi İşleme (Processing):** Contiki vb. kısıtlı hafıza ve düşük güç gerektiren işletim sistemlerine yazılan yazılımlarla algılanan veriler işlenmektedir.
 * **Haberleşme**: Sensör düğümü (mote) ile diğer sensör düğümlerinin işbirliği içerisinde çalışarak verileri ana bir merkeze ulaştırır.
   * Fiziksel, veri iletim, ağ, taşıma ve uygulama katmanları (5 adet) yardımıyla haberleşilir.
