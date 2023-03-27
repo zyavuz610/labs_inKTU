@@ -58,8 +58,12 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
 
 ## Deney Raporuna İlişkin Açıklama
 * Deney raporu grup olarak yazılacak ve grup üyelerinden biri tarafından sisteme yüklenecektir.
-* Deney raporu yukarıdaki 4 videonun uygulanışını içeren ekran görüntüleri ve gerekli açıklamaları içermelidir.
-* Raporda **deney tasarlama, deney yapma, veri toplama, sonuçları analiz etme ve yorumlama** bölümleri olmalıdır. Gruptaki her öğrenci rapordan eşit derecede sorumludur.
+* Deney raporu yukarıdaki 4 videonun (_Kurulum, Hello World, Broadcast ve Client Server_) uygulanışını içeren ekran görüntüleri ve gerekli açıklamaları içermelidir.
+* Raporda **deney tasarlama, deney yapma, veri toplama, sonuçları analiz etme ve yorumlama** başlıkları olmalıdır. Gruptaki her öğrenci rapordan eşit derecede sorumludur.
+   * **Deney tasarlama**: Nasıl bir deney yapılacağı, hangi parametrelerin deney esnasında gözleneceği, deney  için gerekli ön hazırlıklar gibi kısımlara değinilecektir (deneyi giriş kısmı).
+   * **Deney yapma**: Yaptığınız deneye ilişkin kodlama veya ekran görüntüleri ve uygulanan talimatlar açıklanacaktır.
+   * **Veri Toplama**:Deney için elde edilen konsol çıktılarıi ekran görüntüleri, log kayıtları gibi bilgilere değinilecektir.
+   * **Sonuçları Analiz Etme ve Yorumlama**: Deney sonunda elde edilen sonuçların ne anlama geldiği deneyin amacı da dikkate alınarak yorumlanmalıdır. Deneyin öğrenciye ne kazandırdığı, ileriye yönelik öneriler bu kısımda verilmelidir.
 * Raporu, grup üyelerinden herhangi biri uzem modülünde bu deney için açılan ödeve **pdf** formatında süresi içinde yüklenmesi yeterlidir.
 * [Rapor Açıklaması](https://youtu.be/mrsMAEgOZZ0?t=1507)
 
