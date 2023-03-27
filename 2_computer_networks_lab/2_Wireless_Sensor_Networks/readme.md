@@ -50,7 +50,7 @@ Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sıras
 * **Deneyin genel açıklaması** ve deneyde kullanılacak sistemin kurulumu
    * [Deney Açıklaması | "Instant Contiki" Kurulumu](https://www.youtube.com/watch?v=K5WOALitaDI)
 * **Deneyde Yapılacak Uygulamalar**
-   * Deneyde sırasıyla _Hello World_, _Boradcast_ ve _Client-Server_ uygulamaları yapılacaktır.
+   * Deneyde sırasıyla _Hello World_, _Boradcast_ ve _Client-Server_ uygulamaları yapılacaktır. Aşağıda [ayrıntılı açıklamaları](#deneyde-gerçekleşti̇ri̇lecek-uygulamalar) verilmiştir.
    * Deneylerin yapılışına ilişkin video [Deney Uygulamaları: Cooja ile Simülayon - HelloWorld | BroadCast | Client-Server](https://www.youtube.com/watch?v=mrsMAEgOZZ0)
 * [Client-Server Deneyi - Kaynak Kod Açıklaması](https://www.youtube.com/watch?v=dMEE6Udm3Kg)
 
