@@ -47,8 +47,13 @@ ant run
 Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sırasıyla aşağıdaki videoları izleyerek deneyde yapılacak uygulamaları kendi kendinize deneyebilirsiniz.
 
 ## Deneyin Yapılışına İlişkin Videolar
-* [Deney Açıklaması | "Instant Contiki" Kurulumu](https://www.youtube.com/watch?v=K5WOALitaDI)
-* [Deney Uygulamaları: Cooja ile Simülayon - HelloWorld | BroadCast | Client-Server](https://www.youtube.com/watch?v=mrsMAEgOZZ0)
+* Deneyin genel açıklaması ve deneyde kullanılacak sistemin kurulumu
+   * [Deney Açıklaması | "Instant Contiki" Kurulumu](https://www.youtube.com/watch?v=K5WOALitaDI)
+* Deneyde Yapılacak Uygulamalar
+   1. Hello World
+   1. Boradcast
+   1. Client-Server
+   * Deneylerin yapılışına ilişkin video [Deney Uygulamaları: Cooja ile Simülayon - HelloWorld | BroadCast | Client-Server](https://www.youtube.com/watch?v=mrsMAEgOZZ0)
 * [Client-Server Deneyi - Kaynak Kod Açıklaması](https://www.youtube.com/watch?v=dMEE6Udm3Kg)
 
 ---
