@@ -1,15 +1,18 @@
 # VHDL ile Ardışıl Devre Tasarımı
 
 ## Özet
-Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 2 nolu deney olarak verilen  **VHDL ile Ardışıl Devre Tasarımı** için hazırlanmıştır.
+
+* Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 2 nolu deney olarak verilen  **VHDL ile Ardışıl Devre Tasarımı** için hazırlanmıştır.
+* Deneye gelmeden önce [Deney Föyü](https://www.ktu.edu.tr/dosyalar/bilgisayar_8a5d5.pdf) okunarak temel kavramlar öğrenilmelidir.
+* Daha sonra [Deney Hazırlığı](#deney-hazırlığı) bölümündeki videolar izlenmelidir.
+* Deney esnasında Sonlu Durum Makinesi ile Çamaşır Makinesi Problemi için gerekli kodlar yazılmalı ve deney sorumlusu tarafından istenen değişiklikler yapılmalıdır. SDN için fonksiyonel simülasyonu yapılmalı ve rapor için gerekli ekran görüntüleri alınmalıdır.
+* Deney sonrasında [Ödev](#ödev-açıklaması) bölümünde verilen uygulama hazırlanmalı, buna ilişkin rapor hazırlanmalı ve grup halinde teslim edilmelidir.
+  * Rapor hazırlanırken [Deney Raporunda İstenen](#deney-raporunda-istenen) bölümündeki açıklamalara dikkat edilmelidir.
 
 ---
 
 ### Deney Hazırlığı
-* Temel kavramlar öğrenilmelidir. ([Deney föyü](https://www.ktu.edu.tr/dosyalar/bilgisayar_8a5d5.pdf))
-* [Genel Açıklamalar ve Lab. Uygulama Yönergesi](https://docs.google.com/document/d/1QmXaHd2HeeSVDXp7UfI83uhN4SyQ2lyejMCl-dehbYc/edit#)
-
-**Deney Hazırlık Videoları**
+* Deney hazırlığı için gerekli **Deney Hazırlık Videoları**
 1. [Temel kavramlar ve genel bilgiler](https://youtu.be/GM-62MMqvH8)
 1. [Sonlu Durum Makinesi ile Çamaşır Makinesi Problemi](https://youtu.be/E0rt9_qNqWc), _[Kaynak kod](eSDM.vhd)_ 
 * **Opsiyonel**: Daha fazla bilgi için [Video 1](https://youtu.be/Z6Ql3Jw2hTU) (16dk) ve [Video 2](https://youtu.be/cg_CRbJMDLM) (~12dk) izlenebir.
