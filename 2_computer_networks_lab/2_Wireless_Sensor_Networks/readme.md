@@ -9,7 +9,8 @@
 * Daha sonra deneyde yapılacak **uygulamaları** gerçekleştirmelisiniz. [Deneyde Gerçekleştirilecek Uygulamalar](#deneyde-gerçekleştirilecek-uygulamalar) bölümünden detaylı bilgiye ulaşabilirsiniz. [Buradaki](https://www.youtube.com/watch?v=mrsMAEgOZZ0) video'yu izleyerek uygulamaları gerçekleştirebilirsiniz.
    * Deneyde sırasıyla _Hello World_, _Boradcast_ ve _Client-Server_ uygulamaları yapılacaktır. Aşağıda [ayrıntılı açıklamaları](#deneyde-gerçekleşti̇ri̇lecek-uygulamalar) verilmiştir.
    * Deneylerin yapılışına ilişkin video [Deney Uygulamaları: Cooja ile Simülayon - HelloWorld | BroadCast | Client-Server](https://www.youtube.com/watch?v=mrsMAEgOZZ0)
-* Son olarak client-server uygulaması için **kaynak kod** üzerinde deney sorumlusunun isteyeceği değişiklikleri yaparak deneyi tamamlayınız. Bunun için kaynak kodu anlamanız gereklidir. [Client-Server Deneyi - Kaynak Kod Açıklaması](https://www.youtube.com/watch?v=dMEE6Udm3Kg) isimli video'yu izleyerek kaynak kodu anlayabilirsiniz.
+* Son olarak _client-server_ uygulaması için **kaynak kod** üzerinde deney sorumlusunun isteyeceği değişiklikleri yaparak deneyi tamamlayınız. Bunun için kaynak kodu anlamanız gereklidir. [Client-Server Deneyi - Kaynak Kod Açıklaması](https://www.youtube.com/watch?v=dMEE6Udm3Kg) isimli video'yu izleyerek kaynak kodu anlayabilirsiniz.
+* Deneyi tamamladıktan sonra verilen süre içerisinde ve istenen kurallara uyarak grup olarak **deney raporu** hazırlayınız. Deney raporunu [buradaki](#deney-raporuna-i̇lişkin-açıklama) açıklamalara göre hazırlayınız.
 
 ---
 
