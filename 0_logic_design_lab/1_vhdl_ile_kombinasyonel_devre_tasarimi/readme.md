@@ -1,33 +1,22 @@
 # VHDL ile Kombinasyonel Devre Tasarımı
-Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 nolu deney olarak verilen  **VHDL ile Kombinasyonel Devre Tasarımı** için hazırlanmıştır.
+
+## Özet
+* Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 1 nolu deney olarak verilen  **VHDL ile Kombinasyonel Devre Tasarımı** için hazırlanmıştır.
+* Deneyin amacı, 
+  * HDL, VHDL, FPGA vb. sayısal tasarım kavramlarını bilmek, 
+  * tasarım süreçlerini bilmek ve uygulamak, 
+  * kombinasyonel devreler tasarlamak, VHDL kodunu yazabilmek, simulasyon yapabilmektir.
+* Deneyin hazırlığı için temel kavramlar öğrenilmelidir. ([Deney föyü](https://www.ktu.edu.tr/dosyalar/bilgisayar_ae476.pdf)) deneye gelmeden önce incelenmelidir.
+* Deneye gelmeden önce aşağıda verilen deneyin hazırlık videolarını izlemelisiniz: 
+ * [Genel Bilgiler](https://youtu.be/GM-62MMqvH8)
+ * [3 girişli OR işlemi](https://youtu.be/F-CK1crxn0o), _[Kaynak kod](eVeya.vhd)_
+ * [Çift eşlik biti](https://youtu.be/gSsEVL2PKz0), _[Kaynak kod](eParity.vhd)_
+ * [Hamming kodlama ve Hata Bulma](https://youtu.be/FWAJL-FcpYs), _[Kaynak kod](eHam.vhd)_
+* Deney esnasında her öğrenci ayrı bir bilgisayarda çalışmalıdır. Bilgisayara hazırlık videolarında anlatıldığı gibi ModelSim kurulumu yapılmalıdır. Daha sonra 3 girişli OR işlemi, çift eşlik biti ve Hamming kodlama ve hata bulma için verilen VHDL kodları ayrı ayrı yazılıp ModelSim ile fonksiyonel simülasyon yapılmalıdır. Gerekli ekran görüntüleri rapora eklenmek üzere kaydedilmelidir.
+  * Modelsim indirme bağlantısı uzem sistemi üzerinden öğrencilerle paylaşılmıştır.
+* Deneyden sonra grup olarak rapor hazırlanmalıdır. Raporun içeriği [aşağıda](#deney-raporunda-i̇stenen) verilmiştir.
 
 ---
-
-## Hazırlık
-
-### Deneyin amacı
-* HDL, VHDL, FPGA vb. sayısal tasarım kavramlarını bilmek,
-* Tasarım süreçlerini bilmek ve uygulamak,
-* Kombinasyonel devreler tasarlamak, VHDL kodunu yazabilmek, simulasyon yapabilmek.
----
-### Deney Hazırlığı
-* Temel kavramlar öğrenilmelidir. ([Deney föyü](https://www.ktu.edu.tr/dosyalar/bilgisayar_ae476.pdf))
-* [Genel Açıklamalar ve Lab. Uygulama Yönergesi](https://docs.google.com/document/d/1QmXaHd2HeeSVDXp7UfI83uhN4SyQ2lyejMCl-dehbYc/edit#)
-
-**Deney Hazırlık Videoları**
-1. [Genel Bilgiler](https://youtu.be/GM-62MMqvH8)
-1. [3 girişli OR işlemi](https://youtu.be/F-CK1crxn0o), _[Kaynak kod](eVeya.vhd)_
-1. [Çift eşlik biti](https://youtu.be/gSsEVL2PKz0), _[Kaynak kod](eParity.vhd)_
-1. [Hamming kodlama ve Hata Bulma](https://youtu.be/FWAJL-FcpYs), _[Kaynak kod](eHam.vhd)_ 
-
-### Ödev Açıklaması
-* **[ÖDEV Açıklaması (video)](https://youtu.be/v5daz6YzBmk)**
-* Bu deney için öncelikle deney föyünü okumalı ve hazırlık videolarını izlemelisiniz.
-* 3 adet deney yaparak videolarının çekimini yapmalısınız, linklerini rapora eklemelisiniz (videolar en az 1 yıl erişime açık kalacak şekilde ayarlanmalıdır).
-  * 1.video: 3 girişli AND devresi VHDL kodu ve fonksiyonel simülasyon
-  * 2.video: tek eşlik biti VHDL kodu ve fonksiyonel simülasyon
-  * 3.video: Hamming kodlama ve hata bulma için en az 3 kez farklı bitleri bozarak hata düzeltme VHDL kodu ve fonksiyonel simülasyon
-* Deney raporu hazırlayarak süresi içerisinde yüklemelisiniz.
 
 ### Deney Raporunda İstenen
 * Rapor, **grup halinde** deney bitiminden sonra 1-2 haftalık süre içerisinde hazırlanmalıdır.
@@ -39,8 +28,7 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
   * Temel ve Teorik Bilgiler
   * 3 girişli AND devresi VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir)
   * tek eşlik biti VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir)
-  * Hamming kodlama ve hata bulma için en az 3 kez farklı bitleri bozarak hata düzeltme VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir).
-
+  * Hamming kodlama ve hata bulma için en az 3 kez farklı bitleri bozarak hata düzeltme VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir, videolar en az 1 yıl erişime açık kalacak şekilde ayarlanmalıdır).
 
 ---
 
@@ -61,6 +49,7 @@ Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuva
 ---
 
 ## Deneyin Yürütme Planı
+
 ### Temel Kavramlar ve Deneyle İlgili Bazı Notlar
 * [Genel Bilgiler](genel_bilgiler.md)
 * FPGA → Field Programmable Gate Array (Alanda Programlanabilen Kapı Dizisi)

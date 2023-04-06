@@ -1,4 +1,4 @@
-# Wireless Sensor Networks (WSN)
+# Kablosuz Sensör Ağlar - Wireless Sensor Networks (WSN)
 
 ## Özet
 

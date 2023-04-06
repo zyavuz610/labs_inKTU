@@ -1,4 +1,6 @@
 # VHDL ile Ardışıl Devre Tasarımı
+
+## Özet
 Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 2 nolu deney olarak verilen  **VHDL ile Ardışıl Devre Tasarımı** için hazırlanmıştır.
 
 ---
