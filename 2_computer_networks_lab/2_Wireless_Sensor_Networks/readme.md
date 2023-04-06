@@ -9,7 +9,8 @@
 
 ## Deneyin Yapılışına İlişkin Videolar
 * **Deneyin genel açıklaması** ve deneyde kullanılacak sistemin kurulumu
-   * [Deney Açıklaması | "Instant Contiki" Kurulumu](https://www.youtube.com/watch?v=K5WOALitaDI)
+   * **Video:** [Deney Açıklaması | "Instant Contiki" Kurulumu](https://www.youtube.com/watch?v=K5WOALitaDI)
+   * [Açıklama Metni](#kurulum)
 * **Deneyde Yapılacak Uygulamalar**
    * Deneyde sırasıyla _Hello World_, _Boradcast_ ve _Client-Server_ uygulamaları yapılacaktır. Aşağıda [ayrıntılı açıklamaları](#deneyde-gerçekleşti̇ri̇lecek-uygulamalar) verilmiştir.
    * Deneylerin yapılışına ilişkin video [Deney Uygulamaları: Cooja ile Simülayon - HelloWorld | BroadCast | Client-Server](https://www.youtube.com/watch?v=mrsMAEgOZZ0)
