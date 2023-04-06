@@ -3,13 +3,13 @@
 ## Özet
 
 * Bilgisayar Ağları Laboratuvarında bir deney olarak tasarlanan bu deney **Kablosuz Sensör Ağları**nın simulasyonunu yapmayı kapsamaktadır.
-* Deney hakkında bilgi edinmek ve deneye hazırlanmak için [Deney Föyü](http://www.ktu.edu.tr/dosyalar/bilgisayar_ce12e.pdf)'nü okumalısınız.
+* Deney hakkında **teorik bilgi** edinmek ve deneye hazırlanmak için [Deney Föyü](http://www.ktu.edu.tr/dosyalar/bilgisayar_ce12e.pdf)'nü okumalısınız.
 * Ayrıca deney hakkında kısa bilgiye [buradan](#kablozsuz-sensör-ağları-wsn) ulaşabilirsiniz.
-* Deneyde öncelikle gerekli kurulumu yapmalısınız. [Kurulum](#kurulum) bölümünden detaylı bilgiye ulaşabilirsiniz. [Buradaki](https://www.youtube.com/watch?v=K5WOALitaDI) video'yu izleyerek de kurulumu gerçekleştirebilirsiniz. 
-* Daha sonra deneyde yapılacak uygulamaları gerçekleştirmelisiniz. [Deneyde Gerçekleştirilecek Uygulamalar](#deneyde-gerçekleştirilecek-uygulamalar) bölümünden detaylı bilgiye ulaşabilirsiniz. [Buradaki](https://www.youtube.com/watch?v=mrsMAEgOZZ0) video'yu izleyerek uygulamaları gerçekleştirebilirsiniz.
+* Deneyde öncelikle gerekli **kurulumu** yapmalısınız. [Kurulum](#kurulum) bölümünden detaylı bilgiye ulaşabilirsiniz. [Buradaki](https://www.youtube.com/watch?v=K5WOALitaDI) video'yu izleyerek de kurulumu gerçekleştirebilirsiniz. 
+* Daha sonra deneyde yapılacak **uygulamaları** gerçekleştirmelisiniz. [Deneyde Gerçekleştirilecek Uygulamalar](#deneyde-gerçekleştirilecek-uygulamalar) bölümünden detaylı bilgiye ulaşabilirsiniz. [Buradaki](https://www.youtube.com/watch?v=mrsMAEgOZZ0) video'yu izleyerek uygulamaları gerçekleştirebilirsiniz.
    * Deneyde sırasıyla _Hello World_, _Boradcast_ ve _Client-Server_ uygulamaları yapılacaktır. Aşağıda [ayrıntılı açıklamaları](#deneyde-gerçekleşti̇ri̇lecek-uygulamalar) verilmiştir.
    * Deneylerin yapılışına ilişkin video [Deney Uygulamaları: Cooja ile Simülayon - HelloWorld | BroadCast | Client-Server](https://www.youtube.com/watch?v=mrsMAEgOZZ0)
-* Son olarak client-server uygulaması için kaynak kod üzerinde deney sorumlusunun isteyeceği değişiklikleri yaparak deneyi tamamlayınız. Bunun için kaynak kodu anlamanız gereklidir. [Client-Server Deneyi - Kaynak Kod Açıklaması](https://www.youtube.com/watch?v=dMEE6Udm3Kg) isimli video'yu izleyerek kaynak kodu anlayabilirsiniz.
+* Son olarak client-server uygulaması için **kaynak kod** üzerinde deney sorumlusunun isteyeceği değişiklikleri yaparak deneyi tamamlayınız. Bunun için kaynak kodu anlamanız gereklidir. [Client-Server Deneyi - Kaynak Kod Açıklaması](https://www.youtube.com/watch?v=dMEE6Udm3Kg) isimli video'yu izleyerek kaynak kodu anlayabilirsiniz.
 
 ---
 
