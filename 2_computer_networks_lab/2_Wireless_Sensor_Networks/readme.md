@@ -2,33 +2,37 @@
 
 ## Deney Hakkında Ön Bilgilendirme
 
-Bilgisayar Ağları Laboratuvarında bir deney olarak tasarlanan bu deney **Kablosuz Sensör Ağları**nın simulasyonunu yapmayı kapsamaktadır.
+* Bilgisayar Ağları Laboratuvarında bir deney olarak tasarlanan bu deney **Kablosuz Sensör Ağları**nın simulasyonunu yapmayı kapsamaktadır.
+* Deney hakkında bilgi edinmek ve deneye hazırlanmak için [Deney Föyü](http://www.ktu.edu.tr/dosyalar/bilgisayar_ce12e.pdf)'nü okumalısınız.
 
 ---
 
-Deney hakkında bilgi edinmek ve deneye hazırlanmak için [Deney Föyü](http://www.ktu.edu.tr/dosyalar/bilgisayar_ce12e.pdf)'nü okumalısınız.
+## Deneyin Yapılışına İlişkin Videolar
+* **Deneyin genel açıklaması** ve deneyde kullanılacak sistemin kurulumu
+   * [Deney Açıklaması | "Instant Contiki" Kurulumu](https://www.youtube.com/watch?v=K5WOALitaDI)
+* **Deneyde Yapılacak Uygulamalar**
+   * Deneyde sırasıyla _Hello World_, _Boradcast_ ve _Client-Server_ uygulamaları yapılacaktır. Aşağıda [ayrıntılı açıklamaları](#deneyde-gerçekleşti̇ri̇lecek-uygulamalar) verilmiştir.
+   * Deneylerin yapılışına ilişkin video [Deney Uygulamaları: Cooja ile Simülayon - HelloWorld | BroadCast | Client-Server](https://www.youtube.com/watch?v=mrsMAEgOZZ0)
+* [Client-Server Deneyi - Kaynak Kod Açıklaması](https://www.youtube.com/watch?v=dMEE6Udm3Kg)
 
 ---
 
+## Kablozsuz Sensör Ağları (WSN)
 Aşağıdaki şekilde kabaca kablosuz sensör ağların yapısı verilmektedir.
 
 ![WSN](/2_computer_networks_lab/2_Wireless_Sensor_Networks/Example-of-a-wireless-sensor-network-based-on-the-Berkeley-mote-platform-The-circles.png)
 
+* **Amaç**, sıcaklık, ses, basınç, nem gibi fiziksel ve çevresel değişiklikleri algılamak ve algılanan veriyi kurulan kablosuz ağ üzerinden işbirliği içerisinde ana bir merkeze iletmektir. 
+* Kablosuz sensör ağlarda her bir **sensör düğümü (mote)** olarak isimlendirilir.
+* Kablosuz sensör ağlarda sensör düğümlerinin çalışması 3 aşamada düşünülebilir.
+  * **Algılama (Sensing):** Sensörler vasıtasıyla fiziksel büyüklükler algılanır ve sayısal değer olarak iletilir.
+  * **Bilgi İşleme (Processing):** Contiki vb. kısıtlı hafıza ve düşük güç gerektiren işletim sistemlerine yazılan yazılımlarla algılanan veriler işlenmektedir.
+  * **Haberleşme**: Sensör düğümü (mote) ile diğer sensör düğümlerinin işbirliği içerisinde çalışarak verileri ana bir merkeze ulaştırır.
+    * Fiziksel, veri iletim, ağ, taşıma ve uygulama katmanları (5 adet) yardımıyla haberleşilir.
+    * Kullanılan standartlar, IEEE 802.15.4 ve onun üzerinde çalışan ZigBee protokolüdür.
+* Deneyde **contiki** işletim sistemi ve bu sisteme kurulu **coaja** simulatörü kullanılacaktır.
+
 ---
-
-**Amaç**, sıcaklık, ses, basınç, nem gibi fiziksel ve çevresel değişiklikleri algılamak ve algılanan veriyi kurulan kablosuz ağ üzerinden işbirliği içerisinde ana bir merkeze iletmektir. 
-
-Kablosuz sensör ağlarda her bir **sensör düğümü (mote)** olarak isimlendirilir.
-
-Kablosuz sensör ağlarda sensör düğümlerinin çalışması 3 aşamada düşünülebilir.
-* **Algılama (Sensing):** Sensörler vasıtasıyla fiziksel büyüklükler algılanır ve sayısal değer olarak iletilir.
-* **Bilgi İşleme (Processing):** Contiki vb. kısıtlı hafıza ve düşük güç gerektiren işletim sistemlerine yazılan yazılımlarla algılanan veriler işlenmektedir.
-* **Haberleşme**: Sensör düğümü (mote) ile diğer sensör düğümlerinin işbirliği içerisinde çalışarak verileri ana bir merkeze ulaştırır.
-  * Fiziksel, veri iletim, ağ, taşıma ve uygulama katmanları (5 adet) yardımıyla haberleşilir.
-  * Kullanılan standartlar, IEEE 802.15.4 ve onun üzerinde çalışan ZigBee protokolüdür.
-  
-Deneyde **contiki** işletim sistemi ve bu sisteme kurulu **coaja** simulatörü kullanılacaktır.
-
 
 ## Kurulum
 1. Bilgisayarınızın donanım düzeyinde sanallaştırma "[Hardware Virtualization](https://h30434.www3.hp.com/t5/image/serverpage/image-id/23649i03555FB16979A05D/image-size/original?v=v2&px=-1)" seçeneği aktif olmalı
@@ -45,14 +49,6 @@ ant run
  </code>
 
 Cooja çalıştırıldıktan sonra simülasyon işlemleri yapabilirsiniz. Sırasıyla aşağıdaki videoları izleyerek deneyde yapılacak uygulamaları kendi kendinize deneyebilirsiniz.
-
-## Deneyin Yapılışına İlişkin Videolar
-* **Deneyin genel açıklaması** ve deneyde kullanılacak sistemin kurulumu
-   * [Deney Açıklaması | "Instant Contiki" Kurulumu](https://www.youtube.com/watch?v=K5WOALitaDI)
-* **Deneyde Yapılacak Uygulamalar**
-   * Deneyde sırasıyla _Hello World_, _Boradcast_ ve _Client-Server_ uygulamaları yapılacaktır. Aşağıda [ayrıntılı açıklamaları](#deneyde-gerçekleşti̇ri̇lecek-uygulamalar) verilmiştir.
-   * Deneylerin yapılışına ilişkin video [Deney Uygulamaları: Cooja ile Simülayon - HelloWorld | BroadCast | Client-Server](https://www.youtube.com/watch?v=mrsMAEgOZZ0)
-* [Client-Server Deneyi - Kaynak Kod Açıklaması](https://www.youtube.com/watch?v=dMEE6Udm3Kg)
 
 ---
 
