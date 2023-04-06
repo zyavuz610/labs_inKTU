@@ -9,8 +9,8 @@
 * Deneyin hazırlığı için temel kavramlar öğrenilmelidir. ([Deney föyü](https://www.ktu.edu.tr/dosyalar/bilgisayar_ae476.pdf)) deneye gelmeden önce incelenmelidir.
 * Deneye gelmeden önce aşağıda verilen deneyin hazırlık videolarını izlemelisiniz: 
   * [Genel Bilgiler](https://youtu.be/GM-62MMqvH8)
-  * [3 girişli OR işlemi](https://youtu.be/F-CK1crxn0o), _[Kaynak kod](eVeya.vhd)_
-  * [Çift eşlik biti](https://youtu.be/gSsEVL2PKz0), _[Kaynak kod](eParity.vhd)_
+  * [3 girişli OR işlemi](https://youtu.be/F-CK1crxn0o), ve _[Kaynak kod](eVeya.vhd)_
+  * [Çift eşlik biti](https://youtu.be/gSsEVL2PKz0), ve _[Kaynak kod](eParity.vhd)_
   * [Hamming kodlama ve Hata Bulma](https://youtu.be/FWAJL-FcpYs), _[Kaynak kod](eHam.vhd)_
 * Deney esnasında her öğrenci ayrı bir bilgisayarda çalışmalıdır. Bilgisayara hazırlık videolarında anlatıldığı gibi ModelSim kurulumu yapılmalıdır. Daha sonra 3 girişli OR işlemi, çift eşlik biti ve Hamming kodlama ve hata bulma için verilen VHDL kodları ayrı ayrı yazılıp ModelSim ile fonksiyonel simülasyon yapılmalıdır. Gerekli ekran görüntüleri rapora eklenmek üzere kaydedilmelidir.
   * Modelsim indirme bağlantısı uzem sistemi üzerinden öğrencilerle paylaşılmıştır.
