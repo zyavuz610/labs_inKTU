@@ -6,7 +6,7 @@
 * Deneye gelmeden önce [Deney Föyü](https://www.ktu.edu.tr/dosyalar/bilgisayar_8a5d5.pdf) okunarak temel kavramlar öğrenilmelidir.
 * Daha sonra [Deney Hazırlığı](#deney-hazırlığı) bölümündeki videolar izlenmelidir.
 * Deney esnasında Sonlu Durum Makinesi ile Çamaşır Makinesi Problemi için gerekli kodlar yazılmalı ve deney sorumlusu tarafından istenen değişiklikler yapılmalıdır. SDN için fonksiyonel simülasyonu yapılmalı ve rapor için gerekli ekran görüntüleri alınmalıdır.
-* Deney sonrasında [Ödev](#ödev-açıklaması) bölümünde verilen uygulama hazırlanmalı, buna ilişkin rapor hazırlanmalı ve grup halinde teslim edilmelidir.
+* Deney sonrasında rapor hazırlanmalı ve süresi içinde teslim edilmelidir.
   * Rapor hazırlanırken [Deney Raporunda İstenen](#deney-raporunda-istenen) bölümündeki açıklamalara dikkat edilmelidir.
 
 ---
@@ -17,11 +17,7 @@
 1. [Sonlu Durum Makinesi ile Çamaşır Makinesi Problemi](https://youtu.be/E0rt9_qNqWc), _[Kaynak kod](eSDM.vhd)_ 
 * **Opsiyonel**: Daha fazla bilgi için [Video 1](https://youtu.be/Z6Ql3Jw2hTU) (16dk) ve [Video 2](https://youtu.be/cg_CRbJMDLM) (~12dk) izlenebir.
 
-### Ödev Açıklaması
-* **[ÖDEV Açıklaması (video)](https://youtu.be/E0rt9_qNqWc?t=1672)**
-* Bu deney için öncelikle deney föyünü okumalı ve hazırlık videolarını izlemelisiniz.
-* Föyde yazılı olan çamaşır makinesi VHDL koduna "Kurutma" durumu ekleyerek gerekli VHDL kodunu güncelleyiniz ve fonksiyonel simülasyonunu yapınız. Yaptığınız simülasyonu anlatan video çekiniz ve bu videoların linklerini rapora ekleyiniz (videolar en az 1 yıl erişime açık kalacak şekilde ayarlanmalıdır).
-* Deney raporu hazırlayarak süresi içerisinde yüklemelisiniz.
+
 
 ### Deney Raporunda İstenen
 * Rapor, **grup halinde** deney bitiminden sonra 1-2 haftalık süre içerisinde hazırlanmalıdır.
@@ -32,3 +28,5 @@
 * **Rapor Konusu ve İçeriği**
   * Temel ve Teorik Bilgiler
   * Föyde yazılı olan çamaşır makinesi VHDL koduna "Kurutma" durumu eklenmiş VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir)
+  Yaptığınız simülasyonu anlatan video çekiniz ve bu videoların linklerini rapora ekleyiniz (videolar en az 1 yıl erişime açık kalacak şekilde ayarlanmalıdır). - **[ÖDEV Açıklaması (video)](https://youtu.be/E0rt9_qNqWc?t=1672)**
+* Deney raporu hazırlayarak süresi içerisinde yüklemelisiniz.

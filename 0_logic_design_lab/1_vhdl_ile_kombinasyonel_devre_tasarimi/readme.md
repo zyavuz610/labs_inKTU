@@ -6,14 +6,15 @@
   * HDL, VHDL, FPGA vb. sayısal tasarım kavramlarını bilmek, 
   * tasarım süreçlerini bilmek ve uygulamak, 
   * kombinasyonel devreler tasarlamak, VHDL kodunu yazabilmek, simulasyon yapabilmektir.
-* Deneyin hazırlığı için temel kavramlar öğrenilmelidir. ([Deney föyü](https://www.ktu.edu.tr/dosyalar/bilgisayar_ae476.pdf)) deneye gelmeden önce incelenmelidir.
-* Deneye gelmeden önce aşağıda verilen deneyin hazırlık videolarını izlemelisiniz: 
-  * [Genel Bilgiler](https://youtu.be/GM-62MMqvH8)
-  * [3 girişli OR işlemi](https://youtu.be/F-CK1crxn0o), ve _[Kaynak kod](eVeya.vhd)_
-  * [Çift eşlik biti](https://youtu.be/gSsEVL2PKz0), ve _[Kaynak kod](eParity.vhd)_
-  * [Hamming kodlama ve Hata Bulma](https://youtu.be/FWAJL-FcpYs), _[Kaynak kod](eHam.vhd)_
+* **Deneye Hazırlık** (deneye gelmeden önce yapılması gerekenler)
+  * Deneye hazırlık için temel kavramlar öğrenilmelidir ([Deney föyü](https://www.ktu.edu.tr/dosyalar/bilgisayar_ae476.pdf) dikkatlice okunmalı ve incelenmelidir).
+  * Deneyden önce aşağıda verilen deneyin hazırlık videoları anlayana kadar izlenmelidir: 
+    * [Genel Bilgiler](https://youtu.be/GM-62MMqvH8)
+    * [3 girişli OR işlemi](https://youtu.be/F-CK1crxn0o), ve _[Kaynak kod](eVeya.vhd)_
+    * [Çift eşlik biti](https://youtu.be/gSsEVL2PKz0), ve _[Kaynak kod](eParity.vhd)_
+    * [Hamming kodlama ve Hata Bulma](https://youtu.be/FWAJL-FcpYs), _[Kaynak kod](eHam.vhd)_
 * Deney esnasında her öğrenci ayrı bir bilgisayarda çalışmalıdır. Bilgisayara hazırlık videolarında anlatıldığı gibi ModelSim kurulumu yapılmalıdır. Daha sonra 3 girişli OR işlemi, çift eşlik biti ve Hamming kodlama ve hata bulma için verilen VHDL kodları ayrı ayrı yazılıp ModelSim ile fonksiyonel simülasyon yapılmalıdır. Gerekli ekran görüntüleri rapora eklenmek üzere kaydedilmelidir.
-  * Modelsim indirme bağlantısı uzem sistemi üzerinden öğrencilerle paylaşılmıştır.
+    * Modelsim indirme bağlantısı uzem sistemi üzerinden öğrencilerle paylaşılmıştır.
 * Deneyden sonra grup olarak rapor hazırlanmalıdır. Raporun içeriği [aşağıda](#deney-raporunda-i̇stenen) verilmiştir.
 
 ---
