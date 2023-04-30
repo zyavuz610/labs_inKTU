@@ -33,6 +33,8 @@
 
 ---
 
+## VHDL ile Kombinasyonel Devre Tasarımı Deneyi 
+
 ### Deney Hazırlık Soruları
 * HDL, VHDL, FPGA, ASIC nedir?
 * FPGA ile ASIC, Arduino ile ne farkları vardır?
