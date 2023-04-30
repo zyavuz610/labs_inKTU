@@ -110,6 +110,9 @@
 
 ---
 ## VHDL ile Sayısal Devre Örnekleri (Öğrenci Ödevleri)
+
+Burada verilen kaynaklar konuyu daha ileri seviyede öğrenmek ve uygulamak isteyen öğrencilerimiz için hazırlanmıştır. Bu kaynaklar ders içeriğinde anlatılan konulara benzer konuları içermektedir. Bu kaynaklarla ilgili sorularınızı ders içerisinde sorabilirsiniz.
+
 ### Kombinasyonel Devreler 
 * **Encoder  & Decoder**
   * Video ve vhdl kodları (Hazırlayan: Aleyna Özbek)
