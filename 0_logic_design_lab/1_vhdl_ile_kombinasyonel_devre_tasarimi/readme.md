@@ -27,9 +27,9 @@
 * Raporlar UZEM’deki derste size açılacak moodle sistemi üzerinden grubu oluşturan öğrencilerden biri tarafından pdf formatında teslim edilmelidir.
 * **Rapor Konusu ve İçeriği**
   * Temel ve Teorik Bilgiler
-  * 3 girişli AND devresi VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir)
-  * tek eşlik biti VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir)
-  * Hamming kodlama ve hata bulma için en az 3 kez farklı bitleri bozarak hata düzeltme VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir, videolar en az 1 yıl erişime açık kalacak şekilde ayarlanmalıdır).
+  * 3 girişli AND devresi ([video](https://youtu.be/F-CK1crxn0o)) VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir)
+  * tek eşlik biti ([video](https://youtu.be/gSsEVL2PKz0)) VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir)
+  * Hamming kodlama ve hata bulma ([video](https://youtu.be/FWAJL-FcpYs)) için en az 3 kez farklı bitleri bozarak hata düzeltme VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir, videolar en az 1 yıl erişime açık kalacak şekilde ayarlanmalıdır).
 
 ---
 
