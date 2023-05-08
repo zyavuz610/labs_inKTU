@@ -5,7 +5,7 @@
 * Bu sayfa KTÜ Bilgisayar Mühendiliği Bölümünde Sayısal Tasarım Laboratuvarında 2 nolu deney olarak verilen  **VHDL ile Ardışıl Devre Tasarımı** için hazırlanmıştır.
 * Deneye gelmeden önce [Deney Föyü](https://www.ktu.edu.tr/dosyalar/bilgisayar_8a5d5.pdf) okunarak temel kavramlar öğrenilmelidir.
 * Daha sonra [Deney Hazırlığı](#deney-hazırlığı) bölümündeki videolar izlenmelidir.
-* Deney esnasında _Sonlu Durum Makinesi (SDN) ile Çamaşır Makinesi_ problemi için gerekli kodlar yazılmalı ve deney sorumlusu tarafından istenen değişiklikler yapılmalıdır. SDN için fonksiyonel simülasyonu yapılmalı ve rapor için gerekli ekran görüntüleri alınmalıdır.
+* Deney esnasında anlatılan _Sonlu Durum Makinesi (SDN) ile Çamaşır Makinesi_ problemi için gerekli kodlar yazılmalı ve deney sorumlusu tarafından istenen değişiklikler yapılmalıdır. SDN için fonksiyonel simülasyonu yapılmalı ve rapor için gerekli ekran görüntüleri alınmalıdır.
 * Deney sonrasında rapor hazırlanmalı ve süresi içinde teslim edilmelidir.
   * Rapor hazırlanırken [Deney Raporunda İstenen](#deney-raporunda-i̇stenen) bölümündeki açıklamalara dikkat edilmelidir.
 
