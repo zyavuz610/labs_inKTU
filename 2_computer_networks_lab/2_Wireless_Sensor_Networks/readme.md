@@ -33,7 +33,7 @@ Aşağıdaki şekilde kabaca kablosuz sensör ağların yapısı verilmektedir.
 
 ## Kurulum
 1. Bilgisayarınızın donanım düzeyinde sanallaştırma "[Hardware Virtualization](https://h30434.www3.hp.com/t5/image/serverpage/image-id/23649i03555FB16979A05D/image-size/original?v=v2&px=-1)" seçeneği aktif olmalı
-1. Bir linux dağıtımına kurulu "[Instant Contiki](https://sourceforge.net/projects/contiki/files/Instant%20Contiki/)" paketini (2.7 veya daha üst sürüm) elde edinin ve [VMware Workstation Player](https://www.vmware.com/) (veya [VirtualBox](https://www.virtualbox.org/)) sanal makinesine bu paketi kurun. (Üzerinde WSN simulasyonu için gerekli tüm araçlar ve contiki paketleri kurulu ubuntu işletim sistemi kurulu olacaktır)
+1. Bir linux dağıtımına kurulu "[Instant Contiki](https://sourceforge.net/projects/contiki/files/Instant%20Contiki/)" paketini (2.7 veya daha üst sürüm) elde edinin ve [VMware Workstation Player](https://www.vmware.com/) (veya [VirtualBox](https://www.virtualbox.org/)) sanal makinesine bu paketi kurun. (Üzerinde Wireless Sensor Network (WSN) simulasyonu için gerekli tüm araçlar ve contiki paketleri bulunan ubuntu işletim sistemi kurulu olarak bulunmaktadır)
    * **Instant Contiki** işletim sistemine giriş (login) için;
      * **username**: *user*
      * **password**: *user*
