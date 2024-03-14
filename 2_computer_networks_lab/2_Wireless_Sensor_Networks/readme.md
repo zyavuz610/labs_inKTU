@@ -4,7 +4,7 @@
 
 * Bilgisayar Ağları Laboratuvarında bir deney olarak tasarlanan bu deney **Kablosuz Sensör Ağları**nın simulasyonunu yapmayı kapsamaktadır.
 * Deney hakkında **teorik bilgi** edinmek ve deneye hazırlanmak için [Deney Föyü](http://www.ktu.edu.tr/dosyalar/bilgisayar_ce12e.pdf)'nü okumalısınız.
-* Ayrıca deney hakkında kısa bilgiye [buradan](#kablozsuz-sensör-ağları-wsn) ulaşabilirsiniz.
+* Ayrıca deney hakkında kısa bilgilendirmeye [buradan](#kablozsuz-sensör-ağları-wsn) ulaşabilirsiniz.
 * Deneyde öncelikle gerekli **kurulumu** yapmalısınız. [Kurulum](#kurulum) bölümünden detaylı bilgiye ulaşabilirsiniz. [Buradaki](https://www.youtube.com/watch?v=K5WOALitaDI) video'yu izleyerek de kurulumu gerçekleştirebilirsiniz. 
 * Daha sonra deneyde yapılacak **uygulamaları** gerçekleştirmelisiniz. [Deneyde Gerçekleştirilecek Uygulamalar](#deneyde-gerçekleştirilecek-uygulamalar) bölümünden detaylı bilgiye ulaşabilirsiniz. [Buradaki](https://www.youtube.com/watch?v=mrsMAEgOZZ0) video'yu izleyerek uygulamaları gerçekleştirebilirsiniz.
    * Deneyde sırasıyla _Hello World_, _Boradcast_ ve _Client-Server_ uygulamaları yapılacaktır. Aşağıda [ayrıntılı açıklamaları](#deneyde-gerçekleşti̇ri̇lecek-uygulamalar) verilmiştir.
