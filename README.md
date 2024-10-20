@@ -1,3 +1,4 @@
+## Verdiğim Laboratuvar Dersleri
 Bu depo, KTÜ Bilgisayar Mühendisliği Bölümünde yürüttüğüm laboratuvar deneyleri için tutuğum notları ve deneylerle ilgili kaynakları içermektedir.
 
 * **[Bilgisayar Organizasyonu Lab.](1_computer_org_lab/)**
@@ -6,7 +7,7 @@ Bu depo, KTÜ Bilgisayar Mühendisliği Bölümünde yürüttüğüm laboratuvar
     * [_Deney hakkında bilgiler, geçmiş yıllardaki sorular_](1_computer_org_lab/adc/)
 
 ---
-## Verdiğim Laboratuvar Dersleri
+
 * **[Sayısal Tasarım Lab.](0_logic_design_lab/)**
   * VHDL ile Kombinasyonel Devre Tasarımı (2022- ...) - [yeni dönem][vhdl02]
   * VHDL ile Ardışıl Devre Tasarımı (2022- ...) - [yeni dönem][vhdl03]
