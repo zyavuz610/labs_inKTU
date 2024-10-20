@@ -1,6 +1,8 @@
 ## Verdiğim Laboratuvar Dersleri
 Bu depo, KTÜ Bilgisayar Mühendisliği Bölümünde yürüttüğüm laboratuvar deneyleri için tutuğum notları ve deneylerle ilgili kaynakları içermektedir.
 
+---
+
 * **[Bilgisayar Organizasyonu Lab.](1_computer_org_lab/)**
   * **Analog-Digital Converter (ADC) Deneyi** (2005-...)
     * [Deney Uygulamaları - Jupyter Notebok](1_computer_org_lab/adc/analog_digital_converter(ADC).ipynb)
