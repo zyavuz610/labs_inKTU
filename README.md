@@ -6,7 +6,7 @@ Bu depo, KTÜ Bilgisayar Mühendisliği Bölümünde yürüttüğüm laboratuvar
 * **[Bilgisayar Organizasyonu Lab.](1_computer_org_lab/)**
   * **Analog-Digital Converter (ADC) Deneyi** (2005-...)
     * Deney Uygulamaları - [Jupyter Notebok](1_computer_org_lab/adc/analog_digital_converter(ADC).ipynb)
-    * _Deney hakkında bilgiler_ - [_ana dizin_](1_computer_org_lab/adc/)
+    * _Deney hakkında genel bilgiler_ - [_ana dizin_](1_computer_org_lab/adc/)
 
 ---
 
