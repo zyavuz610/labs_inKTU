@@ -4,8 +4,7 @@ Bu depo, KTÜ Bilgisayar Mühendisliği Bölümünde yürüttüğüm laboratuvar
 * **[Sayısal Tasarım Lab.](0_logic_design_lab/)**
   * VHDL ile Kombinasyonel Devre Tasarımı (2022- ...) - [yeni dönem][vhdl02]
   * VHDL ile Ardışıl Devre Tasarımı (2022- ...) - [yeni dönem][vhdl03]
-  * Geçmiş Dönem:
-    * _VHDL ile Devre Tasarımı (2018-2021) - [geçmiş dönemler][vhdl01]_
+  * _Geçmiş Dönemler: VHDL ile Devre Tasarımı (2018-2021) - [geçmiş dönemler][vhdl01]_
 ---
 * **[Bilgisayar Organizasyonu Lab.](1_computer_org_lab/)**
   * [Analog-Digital Converter (ADC) Deneyi](1_computer_org_lab/adc/) - Analog Sayısal Dönüştürücü (2005-...)
