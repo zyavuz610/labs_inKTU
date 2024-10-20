@@ -1,8 +1,9 @@
 Bu depo, KTÜ Bilgisayar Mühendisliği Bölümünde yürüttüğüm laboratuvar deneyleri için tutuğum notları ve deneylerle ilgili kaynakları içermektedir.
 
 * **[Bilgisayar Organizasyonu Lab.](1_computer_org_lab/)**
-  * [Analog-Digital Converter (ADC) Deneyi](1_computer_org_lab/adc/) - Analog Sayısal Dönüştürücü (2005-...)
+  * **Analog-Digital Converter (ADC) Deneyi** (2005-...)
     * [Deney Uygulamaları - Jupyter Notebok](1_computer_org_lab/adc/analog_digital_converter(ADC).ipynb)
+    * [_Deney hakkında bilgiler, geçmiş yıllardaki sorular_](1_computer_org_lab/adc/)
 
 ---
 ## Verdiğim Laboratuvar Dersleri
