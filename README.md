@@ -4,15 +4,15 @@ Bu depo, KTÜ Bilgisayar Mühendisliği Bölümünde yürüttüğüm laboratuvar
 ---
 
 * **[Bilgisayar Organizasyonu Lab.](1_computer_org_lab/)**
-  * **Analog-Digital Converter (ADC) Deneyi** (2005-...)
+  * **Analog-Digital Converter (ADC) Deneyi** (2005-2024)
     * Deney Uygulamaları - [Jupyter Notebok](1_computer_org_lab/adc/analog_digital_converter(ADC).ipynb)
     * _Deney hakkında genel bilgiler_ - [_ana dizin_](1_computer_org_lab/adc/)
 
 ---
 
 * **[Sayısal Tasarım Lab.](0_logic_design_lab/)**
-  * VHDL ile Kombinasyonel Devre Tasarımı (2022- ...) - [yeni dönem][vhdl02]
-  * VHDL ile Ardışıl Devre Tasarımı (2022- ...) - [yeni dönem][vhdl03]
+  * VHDL ile Kombinasyonel Devre Tasarımı (**yeni**) - [yeni dönem][vhdl02]
+  * VHDL ile Ardışıl Devre Tasarımı (**yeni**) - [yeni dönem][vhdl03]
   * _Geçmiş Dönemler: VHDL ile Devre Tasarımı (2018-2021) - [geçmiş dönemler][vhdl01]_
 ---
 
