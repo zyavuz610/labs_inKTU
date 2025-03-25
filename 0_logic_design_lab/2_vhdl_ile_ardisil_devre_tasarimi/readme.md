@@ -26,6 +26,5 @@
 * Raporlar UZEM’deki derste size açılacak moodle sistemi üzerinden grubu oluşturan öğrencilerden biri tarafından pdf formatında teslim edilmelidir.
 * **Rapor Konusu ve İçeriği**
   * Temel ve Teorik Bilgiler
-  * Föyde yazılı olan çamaşır makinesi VHDL koduna "Kurutma" durumu eklenmiş VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacak, video linki eklenecektir)
-  Yaptığınız simülasyonu anlatan video çekiniz ve bu videoların linklerini rapora ekleyiniz (videolar en az 1 yıl erişime açık kalacak şekilde ayarlanmalıdır). - **[ÖDEV Açıklaması (video)](https://youtu.be/E0rt9_qNqWc?t=1672)**
+  * Föyde yazılı olan çamaşır makinesi VHDL koduna "Kurutma" durumu eklenmiş VHDL kodu ve fonksiyonel simülasyon (ekran görüntüleri ve anlatım rapora yazılacaktır)
 * Deney raporu hazırlayarak süresi içerisinde yüklemelisiniz.
